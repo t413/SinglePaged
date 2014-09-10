@@ -1,0 +1,51 @@
+---
+---
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="/combo.css">
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+</head>
+<body>
+  <div id="main">
+
+    <nav><ul>
+      {% for node in site.posts reversed %}
+        <li class="border-{{ node.bg }}"><a href="#{{node.title}}">{{node.title}}</a></li>
+      {% endfor %}
+    </ul></nav>
+
+
+    {% for page in site.posts reversed %}
+      <div id="{{ page.title }}" class="section {{ page.style }} bg-{{page.bg}}">
+        {% if page.fa-icon %}
+        <div class="sectionicon">
+          <span class="fa-stack">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-{{ page.fa-icon }} fa-stack-1x text-{{page.bg}}"></i>
+          </span>
+          <h5 class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
+        </div>
+        {% endif %}
+        <div class="container text-{{ page.color }}">
+          {{ page.content }}
+        </div>
+      </div>
+    {% endfor %}
+
+
+    <div id="footer" class="section bg-black text-white">
+      <div class="container text-{{ page.color }}">
+        {% capture foottext %} {% include footer.md %} {% endcapture %}
+        {{ foottext | markdownify }}
+      </div>
+    </div>
+  </div>
+
+{% include analytics.html %}
+</body>
+</html>
