@@ -12,6 +12,7 @@ html { box-sizing: border-box; }
 .text-{{c[0]}}   { color: {{ c[1].dark }}; }
 .text-{{c[0]}} a { color: {{ c[1].dark }}; }
 .bg-{{c[0]}}     { background-color: {{ c[1].dark }} !important; }
+.shadow-{{c[0]}}     { text-shadow: 1px -2px 2px {{ c[1].dark }}; }
 {% endfor %}
 
 img {
@@ -79,13 +80,14 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:2px solid;
+  padding: 2px 0;
   *display:inline;
   zoom:1;
   line-height:normal;
   letter-spacing:normal;
   text-transform:uppercase;
-  min-width:93px;
-  line-height:50px;
+  min-width:90px;
+  line-height:44px;
   margin:0;
 }
 
@@ -99,6 +101,10 @@ nav ul li a, nav ul li a:visited {
 
 nav ul li a:hover {
   opacity:1
+}
+nav ul li:hover, nav ul li.active {
+  border-top: 4px solid;
+  padding-top: 0;
 }
 
 
@@ -123,7 +129,7 @@ nav ul li a:hover {
   min-height:100px;
 }
 
-.sectionicon {
+.sectiondivider {
   text-align:center;
   width:270px;
   height:270px;
@@ -139,29 +145,14 @@ nav ul li a:hover {
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
 }
 
-.sectionicon .fa-stack {
+.sectiondivider .fa-stack {
   font-size: 130px;
   position: static;
   margin-top: -8px;
   color: #fff;
 }
 
-.sectionicon img {
-  position:relative;
-  z-index:5
-}
-
-.colorfill {
-  position:absolute;
-  width:150px;
-  height:100px;
-  display:block;
-  top:74px;
-  left:60px;
-  z-index:4
-}
-
-h5.icon-title {
+.sectiondivider h5 {
   font-size:15px;
   font-weight:700;
   text-transform:uppercase;

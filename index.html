@@ -23,7 +23,7 @@
     {% for page in site.posts reversed %}
       <div id="{{ page.title }}" class="section {{ page.style }} bg-{{page.bg}}">
         {% if page.fa-icon %}
-        <div class="sectionicon">
+        <div class="sectiondivider">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-{{ page.fa-icon }} fa-stack-1x text-{{page.bg}}"></i>
