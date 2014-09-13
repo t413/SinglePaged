@@ -151,7 +151,6 @@ nav ul li:hover, nav ul li.active {
   margin-top: -8px;
   color: #fff;
 }
-
 .sectiondivider h5 {
   font-size:15px;
   font-weight:700;
@@ -165,3 +164,31 @@ nav ul li:hover, nav ul li.active {
   width:240px
 }
 
+
+@media only screen and (max-width: 479px) {
+  .container { padding: 0; }
+}
+
+@media only screen and (max-width: 767px) {
+	.container h1 { font-size: 30px; }
+	.container h2 { font-size: 24px; }
+	.container h3 { font-size: 20px; }
+	.container h4 { font-size: 18px; }
+
+  .sectiondivider {
+    width:200px;
+    height:200px;
+    padding:15px;
+    top:-100px;
+    margin-left:-100px;
+  }
+  .sectiondivider .fa-stack {
+    font-size: 100px;
+    margin-top: -14px;
+  }
+  .sectiondivider h5 {
+    font-size:15px;
+    bottom:30px;
+    width:170px
+  }
+}
