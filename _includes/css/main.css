@@ -51,6 +51,12 @@ img {
   height: 100%;
 }
 
+.inlineblock {
+  display:-moz-inline-stack;
+  display:inline-block;
+  zoom:1;
+  *display:inline;
+}
 
 /* ---------------------------*/
 /* ----- Main Structure ----- */
@@ -58,10 +64,12 @@ img {
 
 /* ----- top menu ----- */
 
+{% assign navborder = 3 %}
+{% assign navborder_active = 6 %}
+
 nav {
-  font-size:12px;
+  font-size:15px;
   width:100%;
-  /*height:60px;*/
   position:fixed;
   z-index:100;
   top:0;
@@ -74,20 +82,20 @@ nav ul {
   text-align:center;
   padding:0;
   margin:0;
-  letter-spacing:-5px;
+  letter-spacing:-4px;
 }
 
 nav ul li {
   display:inline-block;
-  border-top:2px solid;
-  padding: 2px 0;
+  border-top:{{navborder}}px solid;
+  padding: {{navborder}}px 0;
   *display:inline;
   zoom:1;
   line-height:normal;
   letter-spacing:normal;
   text-transform:uppercase;
-  min-width:90px;
-  line-height:44px;
+  min-width:110px;
+  line-height:60px;
   margin:0;
 }
 
@@ -103,7 +111,7 @@ nav ul li a:hover {
   opacity:1
 }
 nav ul li:hover, nav ul li.active {
-  border-top: 4px solid;
+  border-top: {{navborder_active}}px solid;
   padding-top: 0;
 }
 
