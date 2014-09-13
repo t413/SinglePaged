@@ -30,7 +30,6 @@
             var scrollID = $(this).attr('href').substring(1);
             navs[scrollID] = (settings.activateParentNode)? this.parentNode : this;
             sections[scrollID] = $(document.getElementById(scrollID)).offset().top;
-            console.log("#"+scrollID + " nav:"+navs[scrollID] + " section:"+sections[scrollID]);
         });
 
         // setup scroll listener
@@ -40,7 +39,6 @@
             var pos = $(this).scrollTop();
             for (i in sections) {
                 if ((pos + settings.scrollToOffset >= sections[i]) && sections[i] < pos + page_height){
-                    console.log("#"+i + " pos:"+pos + " settings.scrollToOffset:" + settings.scrollToOffset);
                     activateNav(i);
                 }
             }

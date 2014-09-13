@@ -15,13 +15,13 @@
 
     <nav><ul>
       {% for node in site.posts reversed %}
-        <li class="border-{{ node.bg }}"><a href="#{{node.title}}">{{node.title}}</a></li>
+        <li class="border-{{ node.bg }}"><a href="#{{node.title | remove:' ' | downcase}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
 
 
     {% for page in site.posts reversed %}
-      <div id="{{ page.title }}" class="section {{ page.style }} bg-{{page.bg}}">
+      <div id="{{page.title | remove:' ' | downcase}}" class="section bg-{{page.bg}}">
         {% if page.fa-icon %}
         <div class="sectiondivider">
           <span class="fa-stack">
@@ -31,7 +31,7 @@
           <h5 class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
         </div>
         {% endif %}
-        <div class="container text-{{ page.color }}">
+        <div class="container text-{{ page.color }} {{ page.style }}">
           {{ page.content }}
         </div>
       </div>
