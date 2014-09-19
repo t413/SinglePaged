@@ -118,24 +118,29 @@ nav ul li:hover, nav ul li.active {
 
 /* ----- sections/articles ----- */
 
-.container {
-  padding: 0 30px;
-}
-
 .section {
   position:relative;
   display:block;
   width:100%;
   min-height:300px;
   padding:210px 0;
-  background:url(bgnoise.png);
+  background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
 
-#footer {
-  padding: 100px 0;
-  min-height:100px;
+.section:first-of-type {
+    padding-top: 140px;
 }
+
+
+#footer {
+  padding: 8px 0;
+  min-height:0;
+  text-align:center;
+  background-color:#2e2e2e;
+  background-image:none;
+}
+#footer .container p { font-size:13px; margin:0; }
 
 .sectiondivider {
   text-align:center;
@@ -151,6 +156,13 @@ nav ul li:hover, nav ul li.active {
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
+}
+
+.sectiondivider img {
+  width:200px;
+  height:240px;
+  position: static;
+  margin-top: -20px;
 }
 
 .sectiondivider .fa-stack {
@@ -169,26 +181,61 @@ nav ul li:hover, nav ul li.active {
   text-align:center;
   display:block;
   z-index:6;
-  width:240px
+  width:240px;
+  text-shadow: 1px 1px 3px #333;
 }
 
 
-@media only screen and (max-width: 479px) {
-  .container { padding: 0; }
+.columned {
+  -webkit-column-count: 3;
+  -moz-column-count:    3;
+  column-count:         3;
+
+  -webkit-column-gap: 40px;
+  -moz-column-gap:    40px;
+  column-gap:         40px;
+
+  -webkit-column-rule: 1px outset rgba(255,255,255,0.5);
+  -moz-column-rule:    1px outset rgba(255,255,255,0.5);
+  column-rule:         1px outset rgba(255,255,255,0.5);
+}
+.longlist { font-size: 14px !important; }
+.longlist li { margin-bottom: 3px; }
+
+
+/* mid size (tablets, landscapes) */
+@media only screen and (max-width: 679px) {
+  nav { font-size:11px; }
+  nav ul li {
+    min-width:60px;
+    line-height:40px;
+  }
 }
 
+/* tiny size (phones) */
+@media only screen and (max-width: 380px) {
+  nav ul li { min-width:90px; line-height:20px; }
+}
+
+/* anything not desktop */
 @media only screen and (max-width: 767px) {
 	.container h1 { font-size: 30px; }
 	.container h2 { font-size: 24px; }
 	.container h3 { font-size: 20px; }
 	.container h4 { font-size: 18px; }
 
+
+  .section { padding:130px 0; }
   .sectiondivider {
     width:200px;
     height:200px;
     padding:15px;
     top:-100px;
     margin-left:-100px;
+  }
+  .sectiondivider img {
+    width:150px;
+    height:180px;
   }
   .sectiondivider .fa-stack {
     font-size: 100px;
@@ -198,5 +245,11 @@ nav ul li:hover, nav ul li.active {
     font-size:15px;
     bottom:30px;
     width:170px
+  }
+
+  .columned {
+    -webkit-column-count: 2;
+    -moz-column-count:    2;
+    column-count:         2;
   }
 }
