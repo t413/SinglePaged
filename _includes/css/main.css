@@ -182,6 +182,9 @@ nav ul li:hover, nav ul li.active {
   display:block;
   z-index:6;
   width:240px;
+}
+
+.sectiondivider.imaged {
   text-shadow: 1px 1px 3px #333;
 }
 

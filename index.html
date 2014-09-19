@@ -25,12 +25,12 @@
     {% for page in site.posts reversed %}
       <div id="{{page.title | remove:' ' | downcase}}" class="section bg-{{page.bg}}">
         {% if page.icon %}
-        <div class="sectiondivider">
+        <div class="sectiondivider imaged">
           <img src="{{page.icon}}" alt="section icon" />
           <h5 class="icon-title text-{{page.bg}}">{{ page.title }}</h5>
         </div>
         {% elsif page.fa-icon %}
-        <div class="sectiondivider">
+        <div class="sectiondivider faicon">
           <span class="fa-stack">
             <i class="fa fa-circle fa-stack-2x"></i>
             <i class="fa fa-{{ page.fa-icon }} fa-stack-1x text-{{page.bg}}"></i>
