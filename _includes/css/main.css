@@ -142,8 +142,17 @@ nav ul li:hover, nav ul li.active {
 }
 #footer .container p { font-size:13px; margin:0; }
 
-.sectiondivider {
+.subtlecircle {
   text-align:center;
+  z-index:3;
+  border-radius:50%;
+  -moz-border-radius:50%;
+  -webkit-border-radius:50%;
+  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
+  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
+}
+
+.sectiondivider {
   width:270px;
   height:270px;
   padding:15px;
@@ -151,11 +160,6 @@ nav ul li:hover, nav ul li.active {
   top:-135px;
   left:50%;
   margin-left:-135px;
-  z-index:3;
-  border-radius:50%;
-  -moz-border-radius:50%;
-  -webkit-border-radius:50%;
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
 }
 
 .sectiondivider img {
