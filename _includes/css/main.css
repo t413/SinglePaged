@@ -21,6 +21,17 @@ img {
   vertical-align:middle;
 }
 
+code {
+  font-family: monospace;
+  background: rgba(255,255,255,0.2);
+}
+
+hr {
+  margin:60px auto;
+  width:50%;
+  border-color: {{ site.colors.black.dark }};
+}
+
 .center { text-align: center; }
 
 .container h1, .container h2, .container h3, .container h4 {
