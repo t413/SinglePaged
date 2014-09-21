@@ -3,21 +3,33 @@ Fancy jekyll powered single page site
 
 Here're some examples:
 
-- This repository is a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
-- [magiciansanfrancisco.com](http://magiciansanfrancisco.com) uses it
+- This repository is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
+- [SMS-Tools](http://t413.com/SMS-Tools/) uses this template!
+- [magiciansanfrancisco.com](http://magiciansanfrancisco.com) uses it ([source](https://github.com/strongrobert/MagicianSanFrancisco))
+  * Shows a great example of the 3 / 2 column layout (used in photos)
+  * Shows how to use images as section dividers instead
 - Let me know of more!
 
-## How-To: **basic setup**
 
-There are about *a billion* ways to get started.
+## Why?
 
-We're going to use my **fork, rename, branch, and modify** method. It will get you started quickly and let you update easily.
+Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
 
-There are three way to get started based on what you want to do:
+- Each vertical section is a markdown file in **_posts/** directory.
+  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
+- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
+- Only **two things** to edit:
+  1. Edit `_config.yml` to set the site title, description, etc
+  2. Add _posts/*.md to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
+- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
 
-1. [As a user (or organization) root page](#setup-as-user-homepage). It will live at [username].github.io (or your own custom domain if you want)
-2. [As a standalone project page](#setup-as-standalone-project-page). It will live at [username].github.io/**[ProjectName]**.
-3. [As a branch inside an existing project](#setup-inside-existing-project) that'll give you a fancy page at [username].github.io/**[ProjectName]**.
+Sound good? Let's go!
+
+There are three way to get started: (links jump to that section)
+
+1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
+2. Make a [**standalone project**](#setup-as-standalone-project-page) page
+3. Make a [site under an **existing project**](#setup-inside-existing-project)
 
 
 
@@ -25,12 +37,12 @@ There are three way to get started based on what you want to do:
 
 ## Setup as user homepage
 
-- Click **fork** up top on this github project page.
+- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
 - Rename your new repository to `**username**.github.io`. (click settings in the right column)
 - Clone your repository, **cd into the project**
 - Run `git checkout publish && git branch -m master && git push -u origin master && git branch -D gh-pages` to get the *publish* branch as master for a clean, empty starting point.
-- On your github project page go to *settings* again and change your default branch to **master**
-- Run `git push origin --delete gh-pages` to delete your remote's development branch (you only need the publish one)
+- On your github project page go to *settings* again and change your **default branch** to ***master***
+- Run `git push origin --delete gh-pages` to delete your remote's development branch
 
 Now hop over to [Usage](#usage) to get it running with your own stuff!
 
@@ -41,7 +53,7 @@ Now hop over to [Usage](#usage) to get it running with your own stuff!
 
 ## Setup as standalone project page
 
-- Click **fork** up top on this github project page.
+- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
 - Rename your new repository to `whatever you want`. (click settings in the right column)
   * It will go live at yourusername.github.io/**WhateverYouWant**
 - Clone your repository, cd into the project
@@ -63,7 +75,7 @@ This will create an orphan branch called `gh_pages` in your repository
 where you can publish changes, posts, images, and such. It won't alter your code at all.
 
 - `cd` into your project on the command line
-- use `git remote add singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
+- use `git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
 - use `git fetch singlepage publish:gh-pages` to fetch the remote branch
 - use `git branch --set-upstream gh-pages singlepage/publish && git checkout gh-pages;`
   This creates and checks out an orphan branch called gh-pages that tracks the original and lets you make changes.
@@ -77,14 +89,13 @@ Now hop over to [Usage](#usage) to get it running with your own stuff!
 
 ## Usage
 
-Hopefully you've run through one of the setup guides above. Now you're ready to push some schmancy pages for the world to ogle at.
+Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
 
-1. Hopefully you've deleted all the _posts/ pages with the `git rm _posts/*; commit -m "Removing example posts";` command.
-  Great! now let's make some new ones just for you.
-2. Hopefully you've edited `_config.yml` to change your title, keywords, and description.
-3. Now create a new file in `_posts/` called `2014-01-01-intro.md`
+- Edit `_config.yml` to change your title, keywords, and description.
+- Create a new file in `_posts/` called `2014-01-01-intro.md`
   Edit it, and add:
-  ```
+
+~~~
   ---
   title: "home"
   bg: white
@@ -92,11 +103,13 @@ Hopefully you've run through one of the setup guides above. Now you're ready to 
   style: center
   ---
 
-  ### *whoa, okay, a heading in markdown!*
+  # Example headline!
   and so on..
-  ```
-4. Create a second post called `2014-01-02-art.md` with an divider image this time:
-  ```
+~~~
+
+- Create a second post called `2014-01-02-art.md` with an divider image this time:
+
+~~~
   ---
   title: "Art"
   bg: blue
@@ -104,12 +117,15 @@ Hopefully you've run through one of the setup guides above. Now you're ready to 
   fa-icon: paint-brush
   ---
 
-  #### whoa, a new section- the humanity!
-  ```
-  That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
-5. run `jekyll serve -w` and visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
+  #### A new section- oh the humanity!
+~~~
+
+**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
+
+- run `jekyll serve -w` and visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
   (if that doesn't work you probably need to install Jekyll with `sudo gem install github-pages`)
-6. Push changes and see them live!
+- Push changes and see them live!
+
 
 
 
@@ -122,11 +138,7 @@ colors:
     light: '#303030'
     dark: '#111111'
   white:
-    light: '#f5f5f5'
-    dark: '#f8f8f8'
-  blue:
-    light: '#3c9eec'
-    dark: '#49a7e9'
+  .. etc
 ```
 
 Edit these (and manually restart your local server with ^C and `jekyll serve -w` to see changes)
