@@ -47,6 +47,7 @@ hr {
   font-size: 17px;
   padding: 0 5%;
 }
+.container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
     margin-top: 40px;
 }
