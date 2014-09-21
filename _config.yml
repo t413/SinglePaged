@@ -15,10 +15,11 @@ highlighter: pygments
 
 
 ### content configuration ###
-title: SinglePaged - Simple Jekyll template
+title: "SinglePaged - Simple Jekyll template"
 keywords: "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-google_analytics_key: ## put in a key to enable tracking!
+google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+source_link: "https://github.com/t413/SinglePaged"
 
 
 ### template colors, used site-wide via css ###
