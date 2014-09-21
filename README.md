@@ -15,44 +15,44 @@ We're going to use my **fork, rename, branch, and modify** method. It will get y
 
 There are three way to get started based on what you want to do:
 
-1. [As a user (or organization) root page](#setup-as-user-root-page). It will live at [username].github.io (or your own custom domain if you want)
-2. [As a standalone project page](#setup-as-a-standalone-project-page). It will live at [username].github.io/**[ProjectName]**.
+1. [As a user (or organization) root page](#setup-as-user-homepage). It will live at [username].github.io (or your own custom domain if you want)
+2. [As a standalone project page](#setup-as-standalone-project-page). It will live at [username].github.io/**[ProjectName]**.
 3. [As a branch inside an existing project](#setup-inside-existing-project) that'll give you a fancy page at [username].github.io/**[ProjectName]**.
 
 
 
-## Setup as user root page
+-------------------------
+
+## Setup as user homepage
 
 - Click **fork** up top on this github project page.
-- In your new repository it creates go its settings (right column), then rename your directory.
- * Name it **username**.github.io for it to be your root site.
- * Name it *whatever you want* for it to show up at username.github.io/**WhateverYouWant**
-- Click on branch drop-down, type in `master`, click *Create branch: master*
-- Go back into settings, change default branch to `master`
-- Clone your repository, cd into the project
-- **Important** Run `git rm _posts/*; commit -m "Removing example posts";`
-  This will prevent any future updates to those articles creating conflicts when they're updated.
-- Edit your _config.yml file
- * change the title, keywords, and description
- * edit, remove, or add colors. (These are referenced by name later in each section post.)
-- Create some _posts/ md files, these show up as sections
+- Rename your new repository to `**username**.github.io`. (click settings in the right column)
+- Clone your repository, **cd into the project**
+- Run `git checkout publish && git branch -m master && git push -u origin master && git branch -D gh-pages` to get the *publish* branch as master for a clean, empty starting point.
+- On your github project page go to *settings* again and change your default branch to **master**
+- Run `git push origin --delete gh-pages` to delete your remote's development branch (you only need the publish one)
 
 Now hop over to [Usage](#usage) to get it running with your own stuff!
 
-## Setup as a standalone project page
+**When you publish changes use `git push -u origin master`**
+
+-------------------------
+
+
+## Setup as standalone project page
 
 - Click **fork** up top on this github project page.
-- In your new repository it creates go its settings (right column), then rename your directory to `whatever you want`
- * It will go live at username.github.io/**WhateverYouWant**
+- Rename your new repository to `whatever you want`. (click settings in the right column)
+  * It will go live at yourusername.github.io/**WhateverYouWant**
 - Clone your repository, cd into the project
-- **Important** Run `git rm _posts/*; commit -m "Removing example posts";`
-  This will prevent any future updates to those articles creating conflicts when they're updated.
-- Edit your _config.yml file
- * change the title, keywords, and description
- * edit, remove, or add colors. (These are referenced by name later in each section post.)
-- Create some _posts/ md files, these show up as sections
+- Run `git checkout publish && git branch -D gh-pages && git branch -m gh-pages && git push -uf origin gh-pages` to swap the *publish* and *gh-pages* branch.
 
 Now hop over to [Usage](#usage) to get it running with your own stuff!
+
+**When you publish changes use `git push -u origin gh-pages`**
+
+-------------------------
+
 
 ## Setup inside existing project
 
@@ -64,18 +64,14 @@ where you can publish changes, posts, images, and such. It won't alter your code
 
 - `cd` into your project on the command line
 - use `git remote add singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
-- use `git pull singlepage` to pull the remote branch
-- use `git branch --set-upstream gh-pages singlepage/gh-pages; git checkout gh-pages;`
+- use `git fetch singlepage publish:gh-pages` to fetch the remote branch
+- use `git branch --set-upstream gh-pages singlepage/publish && git checkout gh-pages;`
   This creates and checks out an orphan branch called gh-pages that tracks the original and lets you make changes.
-- **Important** Run `git rm _posts/*; commit -m "Removing example posts";`
-  This will prevent any future updates to those articles creating conflicts when they're updated.
-- Edit your _config.yml file
- * change the title, keywords, and description
- * edit, remove, or add colors. (These are referenced by name later in each section post.)
-- Create some _posts/ md files, these show up as sections
-- When you run `git push gh-pages:origin/gh-pages` it'll be live at *username.github.io/repositoryName*
+- When you run `git push gh-pages:origin/gh-pages` it'll be live at *yourusername.github.io/repositoryName*
 
 Now hop over to [Usage](#usage) to get it running with your own stuff!
+
+**When you publish changes use `git push -u origin gh-pages`**
 
 
 
@@ -159,10 +155,9 @@ So you've got a copy running and there's some new update? Let's update!
 1. Checkout your github-pages branch
   - `git checkout gh-pages` for a standalone or existing page
   - `git checkout master` for a *username.github.io* page
+2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
 2. `git fetch singlepage` to fetch-in-place new changes.
 3. Update to the new base (using merge)
-    1. `git merge singlepage/gh-pages`
-    2. If there are conflicts in posts run `git status | grep 'deleted by us' | awk '{print $4}' | xargs git rm; git commit -m "merged new changes"`
+    1. `git merge singlepage/publish`
 4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
-    1. `git rebase singlepage/gh-pages`
-    2. If there are conflicts run `git status | grep 'deleted by them' | awk '{print $4}' | xargs git rm; git rebase --continue;` to remove them and run
+    1. `git rebase singlepage/publish`
