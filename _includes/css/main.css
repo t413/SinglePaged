@@ -24,6 +24,13 @@ img {
 code {
   font-family: monospace;
   background: rgba(255,255,255,0.2);
+  display: inline;
+  word-wrap: break-word;
+}
+
+strong {
+  display: inline;
+  word-wrap: break-word;
 }
 
 hr {
