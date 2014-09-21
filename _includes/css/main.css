@@ -28,17 +28,13 @@ code {
   word-wrap: break-word;
 }
 
-strong {
-  display: inline;
-  word-wrap: break-word;
-}
-
 hr {
   margin:60px auto;
   width:50%;
   border-color: {{ site.colors.black.dark }};
 }
 
+.container { word-wrap: break-word; }
 .center { text-align: center; }
 .left, .container .left { text-align: left; }
 
