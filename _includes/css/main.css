@@ -15,17 +15,38 @@ html { box-sizing: border-box; }
 .shadow-{{c[0]}}     { text-shadow: 1px -2px 2px {{ c[1].dark }}; }
 {% endfor %}
 
+
+
+/* ----- code, syntax highlighting, etc ----- */
+
+code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
+
+/* spesifically inline code */
+code {
+  background: rgba(255,255,255,0.2);
+  display: inline;
+  word-wrap: break-word;
+}
+
+/* block code */
+pre code { background: none; display: block; }
+pre {
+  display: block;
+  margin: 20px 5%;
+  padding: 4px 8px;
+  background: rgba(255,255,255,0.1);
+  word-wrap: break-word;
+}
+
+.highlighttable { margin:20px 5%; }
+
+
+/* ----- base elements ----- */
+
 img {
   max-width:100%!important;
   height:auto;
   vertical-align:middle;
-}
-
-code {
-  font-family: monospace;
-  background: rgba(255,255,255,0.2);
-  display: inline;
-  word-wrap: break-word;
 }
 
 hr {
