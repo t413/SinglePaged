@@ -149,8 +149,8 @@ Edit these (and manually restart your local server with ^C and `jekyll serve -w`
 
 ```
 {% for c in site.colors %}
-.text-{{c[0]}}   { color: {{ c[1].dark }}; }
-.border-{{c[0]}} { border-color: {{ c[1].dark }} !important; }
+.text-{{c[0]}}   { color: {{ c[1] }}; }
+.border-{{c[0]}} { border-color: {{ c[1] }} !important; }
 etc..
 ```
 
