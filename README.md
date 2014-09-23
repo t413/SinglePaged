@@ -98,8 +98,8 @@ Alright, you've got a clean copy and are ready to push some schmancy pages for t
 ~~~
   ---
   title: "home"
-  bg: white
-  color: black
+  bg: white     #defined in _config.yml, can use html color like '#010101'
+  color: black  #text color
   style: center
   ---
 
@@ -112,8 +112,8 @@ Alright, you've got a clean copy and are ready to push some schmancy pages for t
 ~~~
   ---
   title: "Art"
-  bg: blue
-  color: white
+  bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
+  color: white   #text color
   fa-icon: paint-brush
   ---
 
@@ -122,39 +122,19 @@ Alright, you've got a clean copy and are ready to push some schmancy pages for t
 
 **Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
 
-- run `jekyll serve -w` and visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
-  (if that doesn't work you probably need to install Jekyll with `sudo gem install github-pages`)
+- install Jekyll with `sudo gem install github-pages`
+- run `jekyll serve -w`
+  - visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
 - Push changes and see them live!
 
 
 
 
-## Changing your color theme
+## Changing your colors
 
-The `_config.yml` file has this part:
-```
-colors:
-  black:
-    light: '#303030'
-    dark: '#111111'
-  white:
-  .. etc
-```
-
-Edit these (and manually restart your local server with ^C and `jekyll serve -w` to see changes)
-
-**How is this used later?**
-
-`_includes/css/main.css` actually can use Jekyll liquid code! This is what is looks like:
-
-```
-{% for c in site.colors %}
-.text-{{c[0]}}   { color: {{ c[1] }}; }
-.border-{{c[0]}} { border-color: {{ c[1] }} !important; }
-etc..
-```
-
-Now in a post when you use `bg: blue` and `color: white` in index.html it does things like `<div class="container text-{{ page.color }} {{ page.style }}">`
+- In each post file you can define `bg: mycolor` and `color: myothercolor` to change the background and text colors for that section.
+- **mycolor** can be a quoted html color like `'#0fbfcf'` or a key to a special color defined in **_config.yml** under 'colors'.
+  - **Note:** Changes to _config.yml require a manual restart to your local server with `^C` and `jekyll serve -w`.
 
 Nifty, right!
 
@@ -167,7 +147,7 @@ So you've got a copy running and there's some new update? Let's update!
 1. Checkout your github-pages branch
   - `git checkout gh-pages` for a standalone or existing page
   - `git checkout master` for a *username.github.io* page
-2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
+2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
 2. `git fetch singlepage` to fetch-in-place new changes.
 3. Update to the new base (using merge)
     1. `git merge singlepage/publish`
