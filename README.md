@@ -4,10 +4,15 @@ Fancy jekyll powered single page site
 Here're some examples:
 
 - This repository is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
-- [SMS-Tools](http://t413.com/SMS-Tools/) uses this template!
-- [magiciansanfrancisco.com](http://magiciansanfrancisco.com) uses it ([source](https://github.com/strongrobert/MagicianSanFrancisco))
-  * Shows a great example of the 3 / 2 column layout (used in photos)
-  * Shows how to use images as section dividers instead
+- [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
+- [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
+- [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
+- [Laurence Roland James](http://www.laurencerolandjames.com/) personal page, ([source](https://github.com/LaurenceRolandJames/LaurenceRolandJames.github.io))
+- [TIM LA ROCHE](http://timlaroche.github.io/) homepage ([source](https://github.com/timlaroche/timlaroche.github.io))
+- [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
+- [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
+- [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
+- [magiciansanfrancisco.com](http://magiciansanfrancisco.com) -- ([source](https://github.com/strongrobert/MagicianSanFrancisco))
 - Let me know of more!
 
 
