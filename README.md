@@ -11,6 +11,8 @@ Here're some examples:
 - [TIM LA ROCHE](http://timlaroche.github.io/) homepage ([source](https://github.com/timlaroche/timlaroche.github.io))
 - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
 - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
+- [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
+- [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
 - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
 - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) -- ([source](https://github.com/strongrobert/MagicianSanFrancisco))
 - Let me know of more!
