@@ -3,31 +3,36 @@ Fancy jekyll powered single page site
 
 Here're some examples:
 
-- This repository is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
-- [FitNesse Eclipse Plugin](http://fitnesse-eclipse.github.io/) ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
-- [Akanda Network Virtualization](http://akanda.io/) ([source](https://github.com/akanda/akanda.io))
-- [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
-- [Nick Janetakis](http://nickjanetakis.com/) resume ([source](https://github.com/nickjj/nickjj.github.io))
-- [University of Macau HCI team](http://gonzaleswu.github.io/TeamAwesome/) ([source](https://github.com/GonzalesWu/TeamAwesome))
-- [Zeno internet for gamers](http://zenoio.github.io/) ([source](https://github.com/zenoio/zenoio.github.io))
-- [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
-- [Jiawei Gao resume](http://jiaweigao.github.io/) ([source](https://github.com/jiaweigao/jiaweigao.github.io))
-- [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
-- [AfriLeaks - secure whistleblowers confidential submition project page](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) ([source](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page))
-- [Sean Goodwin resume](http://www.seangoodwin.net/) ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
-- [ChipsnCode / Prajwal Bhattaram resume](http://chipsncode.com/) ([source](https://github.com/Marzogh/Marzogh.github.io))
-- [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
-- [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
-- [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
-- [Laurence Roland James](http://www.laurencerolandjames.com/) personal page, ([source](https://github.com/LaurenceRolandJames/LaurenceRolandJames.github.io))
-- [TIM LA ROCHE](http://timlaroche.github.io/) homepage ([source](https://github.com/timlaroche/timlaroche.github.io))
-- [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
-- [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
-- [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
-- [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
-- [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
-- [magiciansanfrancisco.com](http://magiciansanfrancisco.com) -- ([source](https://github.com/strongrobert/MagicianSanFrancisco))
-- Let me know of more!
+- **This repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
+- **Education:**
+  - [University of Macau HCI team](http://gonzaleswu.github.io/TeamAwesome/) ([source](https://github.com/GonzalesWu/TeamAwesome))
+  - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
+  - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
+  - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
+- **Open Source Projects:**
+  - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
+  - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) - secure whistleblowers confidential submition project page ([source](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page))
+  - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
+  - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
+  - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
+  - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
+- **Personal:**
+  - [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
+- **Products:**
+  - [Zeno internet for gamers](http://zenoio.github.io/) ([source](https://github.com/zenoio/zenoio.github.io))
+  - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
+- **Resumes:**
+  - [Nick Janetakis](http://nickjanetakis.com/) resume ([source](https://github.com/nickjj/nickjj.github.io))
+  - [Jiawei Gao resume](http://jiaweigao.github.io/) ([source](https://github.com/jiaweigao/jiaweigao.github.io))
+  - [Sean Goodwin resume](http://www.seangoodwin.net/) ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
+  - [ChipsnCode / Prajwal Bhattaram resume](http://chipsncode.com/) ([source](https://github.com/Marzogh/Marzogh.github.io))
+  - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
+  - [Laurence Roland James](http://www.laurencerolandjames.com/) personal page, ([source](https://github.com/LaurenceRolandJames/LaurenceRolandJames.github.io))
+  - [TIM LA ROCHE](http://timlaroche.github.io/) homepage ([source](https://github.com/timlaroche/timlaroche.github.io))
+  - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
+  - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
+  - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) -- ([source](https://github.com/strongrobert/MagicianSanFrancisco))
+- *Let me know of more!*
 
 
 ## Why?
