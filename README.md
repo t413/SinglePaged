@@ -4,6 +4,18 @@ Fancy jekyll powered single page site
 Here're some examples:
 
 - This repository is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
+- [FitNesse Eclipse Plugin](http://fitnesse-eclipse.github.io/) ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
+- [Akanda Network Virtualization](http://akanda.io/) ([source](https://github.com/akanda/akanda.io))
+- [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
+- [Nick Janetakis](http://nickjanetakis.com/) resume ([source](https://github.com/nickjj/nickjj.github.io))
+- [University of Macau HCI team](http://gonzaleswu.github.io/TeamAwesome/) ([source](https://github.com/GonzalesWu/TeamAwesome))
+- [Zeno internet for gamers](http://zenoio.github.io/) ([source](https://github.com/zenoio/zenoio.github.io))
+- [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
+- [Jiawei Gao resume](http://jiaweigao.github.io/) ([source](https://github.com/jiaweigao/jiaweigao.github.io))
+- [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
+- [AfriLeaks - secure whistleblowers confidential submition project page](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) ([source](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page))
+- [Sean Goodwin resume](http://www.seangoodwin.net/) ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
+- [ChipsnCode / Prajwal Bhattaram resume](http://chipsncode.com/) ([source](https://github.com/Marzogh/Marzogh.github.io))
 - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
 - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
 - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
