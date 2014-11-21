@@ -10,6 +10,8 @@ Here're some examples:
   - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
   - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
 - **Open Source Projects:**
+  - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
+  - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
   - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
   - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) - secure whistleblowers confidential submition project page ([source](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page))
   - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
