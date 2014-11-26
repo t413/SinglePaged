@@ -16,7 +16,7 @@
 </head>
 <body>
   <div id="main">
-
+    <img src="img/logo.png" alt="company logo" />
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
