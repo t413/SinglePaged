@@ -10,6 +10,7 @@ Here're some examples:
   - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
   - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
 - **Open Source Projects:**
+  - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
   - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
   - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
@@ -18,22 +19,25 @@ Here're some examples:
   - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
   - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
   - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
+- **Events / Confrences**
+  - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
 - **Personal:**
   - [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
 - **Products:**
   - [Zeno internet for gamers](http://zenoio.github.io/) ([source](https://github.com/zenoio/zenoio.github.io))
   - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
 - **Resumes:**
-  - [Nick Janetakis](http://nickjanetakis.com/) resume ([source](https://github.com/nickjj/nickjj.github.io))
-  - [Jiawei Gao resume](http://jiaweigao.github.io/) ([source](https://github.com/jiaweigao/jiaweigao.github.io))
-  - [Sean Goodwin resume](http://www.seangoodwin.net/) ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
-  - [ChipsnCode / Prajwal Bhattaram resume](http://chipsncode.com/) ([source](https://github.com/Marzogh/Marzogh.github.io))
+  - [Jiawei Gao](http://jiaweigao.github.io/) resume ([source](https://github.com/jiaweigao/jiaweigao.github.io))
+  - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
+  - [Lia Bogoev](https://bogoli.github.io/) UX designer from utah ([source](https://github.com/bogoli/bogoli.github.io))
   - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
+  - [Nick Janetakis](http://nickjanetakis.com/#development) resume ([source](https://github.com/nickjj/nickjj.github.io))
+  - [ChipsnCode / Prajwal Bhattaram](http://chipsncode.com/) resume ([source](https://github.com/Marzogh/Marzogh.github.io))
+  - [Sean Goodwin](http://www.seangoodwin.net/) resume ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
   - [Laurence Roland James](http://www.laurencerolandjames.com/) personal page, ([source](https://github.com/LaurenceRolandJames/LaurenceRolandJames.github.io))
-  - [TIM LA ROCHE](http://timlaroche.github.io/) homepage ([source](https://github.com/timlaroche/timlaroche.github.io))
   - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
   - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
-  - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) -- ([source](https://github.com/strongrobert/MagicianSanFrancisco))
+  - [Michael A. Schmidt](http://micha-a-schmidt.github.io/physics/) particle physics lecturer at the University of Sydney ([source](https://github.com/micha-a-schmidt/physics/))
 - *Let me know of more!*
 
 
