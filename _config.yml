@@ -15,11 +15,11 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "FSU FNM2015"
+keywords:    ""
+description: "Florida State University 2015 Festival of New Music"
 source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
+favicon:     "img/twitterProfile.jpg"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
@@ -28,6 +28,8 @@ google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (bl
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
+  garnet:    '#782F40'
+  gold:      '#CEB888'
   blue:      '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
