@@ -9,6 +9,8 @@ Here're some examples:
   - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
   - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
   - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
+  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day event at the University of Edinburgh ([source](https://github.com/ilwhack/ilwhack.github.io))
+  - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
 - **Open Source Projects:**
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
@@ -23,9 +25,13 @@ Here're some examples:
   - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
 - **Personal:**
   - [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
+  - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
 - **Products:**
   - [Zeno internet for gamers](http://zenoio.github.io/) ([source](https://github.com/zenoio/zenoio.github.io))
   - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
+  - [Physical.media](http://joshmeek.com/PhysicalMedia-ComingSoon/) teaser page (album release tracker) ([source](https://github.com/JoshM33k/PhysicalMedia-ComingSoon))
+  - [DEVISSCHER web design](http://devisscher.github.io/templates/) ([source](https://github.com/devisscher/templates/))
+  - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
 - **Resumes:**
   - [Jiawei Gao](http://jiaweigao.github.io/) resume ([source](https://github.com/jiaweigao/jiaweigao.github.io))
   - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
