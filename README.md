@@ -8,7 +8,7 @@ Here're some examples:
   - [University of Macau HCI team](http://gonzaleswu.github.io/TeamAwesome/) ([source](https://github.com/GonzalesWu/TeamAwesome))
   - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
   - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
-  - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint-sp/) -- ([source](https://github.com/sprig/mint-sp))
+  - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint/) -- ([source](https://github.com/sprig/mint-sp))
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day event at the University of Edinburgh ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
 - **Open Source Projects:**
@@ -16,7 +16,7 @@ Here're some examples:
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
   - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
   - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
-  - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) - secure whistleblowers confidential submition project page ([source](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page))
+  - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) (since changed, still cool!) - secure whistleblowers confidential submition project page ([source when single-paged](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page/tree/698e3b0b1a67cc5f072ccd3a8f24b6d5e3ad406a))
   - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
   - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
   - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
@@ -27,11 +27,11 @@ Here're some examples:
   - [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
   - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
 - **Products:**
-  - [Zeno internet for gamers](http://zenoio.github.io/) ([source](https://github.com/zenoio/zenoio.github.io))
   - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
   - [Physical.media](http://joshmeek.com/PhysicalMedia-ComingSoon/) teaser page (album release tracker) ([source](https://github.com/JoshM33k/PhysicalMedia-ComingSoon))
   - [DEVISSCHER web design](http://devisscher.github.io/templates/) ([source](https://github.com/devisscher/templates/))
   - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
+  - Zeno- internet for gamers original teaser page: ([source](https://github.com/zenoio/zenoio.github.io))
 - **Resumes:**
   - [Jiawei Gao](http://jiaweigao.github.io/) resume ([source](https://github.com/jiaweigao/jiaweigao.github.io))
   - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
