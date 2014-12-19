@@ -107,15 +107,15 @@ Now hop over to [Usage](#usage) to get it running with your own stuff!
 This is the most complicated use-case .. but it's the coolest.
 Say you've got your kickass project `github.com/t413/kicker` and want to have
 some web presence to post about on [hacker news](http://news.ycombinator.com).
-This will create an orphan branch called `gh_pages` in your repository
+This will create an orphan branch called `gh-pages` in your repository
 where you can publish changes, posts, images, and such. It won't alter your code at all.
 
 - `cd` into your project on the command line
 - use `git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
 - use `git fetch singlepage publish:gh-pages` to fetch the remote branch
-- use `git branch --set-upstream gh-pages singlepage/publish && git checkout gh-pages;`
+- use `git branch --set-upstream-to gh-pages singlepage/publish && git checkout gh-pages;`
   This creates and checks out an orphan branch called gh-pages that tracks the original and lets you make changes.
-- When you run `git push gh-pages:origin/gh-pages` it'll be live at *yourusername.github.io/repositoryName*
+- When you run `git push origin gh-pages` it'll be live at *yourusername.github.io/repositoryName*
 
 Now hop over to [Usage](#usage) to get it running with your own stuff!
 
