@@ -9,7 +9,7 @@ Here're some examples:
   - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
   - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
   - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint/) -- ([source](https://github.com/sprig/mint-sp))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day event at the University of Edinburgh ([source](https://github.com/ilwhack/ilwhack.github.io))
+  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
 - **Open Source Projects:**
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
@@ -22,8 +22,11 @@ Here're some examples:
   - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
   - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
   - [vampd](http://vampd.io) Vagrant Drupal Box ([source](https://github.com/vampd/vampd/tree/gh-pages))
+  - [Automatune](http://mlsites.github.io/Automatune-Site/) - discover and share melodies ([source](https://github.com/mlsites/Automatune-Site/))
 - **Events / Confrences**
   - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
+  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
+  - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
 - **Personal:**
   - [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
   - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
@@ -34,11 +37,14 @@ Here're some examples:
   - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
   - Zeno- internet for gamers original teaser page: ([source](https://github.com/zenoio/zenoio.github.io))
 - **Resumes:**
+  - [Sumedha Pramod](http://www.pramod.ninja/) resume ([source](https://github.com/pramodsum/pramodsum.github.io))
   - [Jiawei Gao](http://jiaweigao.github.io/) resume ([source](https://github.com/jiaweigao/jiaweigao.github.io))
   - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
   - [Lia Bogoev](https://bogoli.github.io/) UX designer from utah ([source](https://github.com/bogoli/bogoli.github.io))
+  - [Péter Sólymos](http://peter.solymos.org/) resume ([source](https://github.com/psolymos/psolymos.github.io))
   - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
   - [Nick Janetakis](http://nickjanetakis.com/#development) resume ([source](https://github.com/nickjj/nickjj.github.io))
+  - [Emil Ahlbäck](https://mull.github.io/) resume ([source](https://github.com/mull/mull.github.io))
   - [ChipsnCode / Prajwal Bhattaram](http://chipsncode.com/) resume ([source](https://github.com/Marzogh/Marzogh.github.io))
   - [Sean Goodwin](http://www.seangoodwin.net/) resume ([source](https://github.com/seanegoodwin/seanegoodwin.github.io))
   - [Laurence Roland James](http://www.laurencerolandjames.com/) personal page, ([source](https://github.com/LaurenceRolandJames/LaurenceRolandJames.github.io))
