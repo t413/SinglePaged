@@ -12,6 +12,7 @@ Here're some examples:
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
 - **Open Source Projects:**
+  - [EssayMaker](http://getessaymaker.com) science fair project made to help write essays.
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
   - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
