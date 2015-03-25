@@ -11,11 +11,16 @@ Here're some examples:
   - [Mathematical Insitute @ Tel-Aviv](http://sprig.github.io/mint/) -- ([source](https://github.com/sprig/mint-sp))
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
+  - [MA441 @ QueensBorough Community College NY](http://kwangkim.github.io/MA441/) ([source](https://github.com/kwangkim/MA441/))
+  - [@opsbug Tech Inoculator](http://increasingprobability.com/) ([source](https://github.com/increasingprobability/increasingprobability.github.io))
+  - [Mobi student organization](https://idappthat.github.io/)-- Mobile UX @ University of Texas at Arlington ([source](https://github.com/idappthat/idappthat.github.io))
 - **Open Source Projects:**
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
+  - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
   - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
   - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
+  - [HTML Tidy Advocacy Community Group](http://www.htacg.org/) ([source](https://github.com/htacg/htacg.github.io))
   - [AfriLeaks](http://codeforafrica.github.io/AfriLeaks-Landing-Page/) (since changed, still cool!) - secure whistleblowers confidential submition project page ([source when single-paged](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page/tree/698e3b0b1a67cc5f072ccd3a8f24b6d5e3ad406a))
   - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
   - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
@@ -23,13 +28,19 @@ Here're some examples:
   - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
   - [vampd](http://vampd.io) Vagrant Drupal Box ([source](https://github.com/vampd/vampd/tree/gh-pages))
   - [Automatune](http://mlsites.github.io/Automatune-Site/) - discover and share melodies ([source](https://github.com/mlsites/Automatune-Site/))
+  - [The Rosette Platform](https://rosette-proj.github.io/)- git-based, internationalization framework (Ruby) ([source](https://github.com/rosette-proj/rosette-proj.github.io))
+  - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
+  - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
 - **Events / Confrences**
+  - [Code Across 2015 @Seoul](http://codeforseoul.org/codeacross/) 전 세계 시빅해커들과 함께 하는 ([source](https://github.com/codeforseoul/codeacross))
   - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
 - **Personal:**
-  - [Karen and Scott wedding site](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
+  - [Karen and Scott wedding](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
   - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
+  - [Harmanpreet weds Gurwinder](http://harmanwedsgurwinder.in/) ([source](https://github.com/harmanhanzra/harmanhanzra.github.io))
+  - [Chris & Katie wedding](http://katieball.me/wedding-style/) ([source](https://github.com/roachhd/wedding-style))
 - **Products:**
   - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
   - [Physical.media](http://joshmeek.com/PhysicalMedia-ComingSoon/) teaser page (album release tracker) ([source](https://github.com/JoshM33k/PhysicalMedia-ComingSoon))
@@ -51,6 +62,11 @@ Here're some examples:
   - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
   - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
   - [Michael A. Schmidt](http://micha-a-schmidt.github.io/physics/) particle physics lecturer at the University of Sydney ([source](https://github.com/micha-a-schmidt/physics/))
+  - [Tim Beissinger](https://timbeissinger.github.io/) postdoc in Plant Sciences at UC Davis ([source](https://github.com/timbeissinger/timbeissinger.github.io))
+  - [Jin Li](https://just4jin.github.io/) MS student in Systems and Information Engineering @ UVA ([source](https://github.com/just4jin/just4jin.github.io))
+  - [Emil Ahlbäck](https://mull.github.io/) ([source](https://github.com/mull/mull.github.io))
+  - [Péter Sólymos](http://peter.solymos.org/) 'statistical computing meets biodiversity conservation' ([source](https://github.com/psolymos/psolymos.github.io))
+  - [My First Password](http://doublejosh.github.io/myfirstpassword/) (guide for choosing passwords) ([source](https://github.com/doublejosh/myfirstpassword/))
 - *Let me know of more!*
 
 
