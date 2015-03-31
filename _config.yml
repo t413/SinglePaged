@@ -28,9 +28,8 @@ google_analytics_key: UA-61325538-2
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  pink:      '#f2385a'
+  blue:     '#3aa1bf'
+  green:    '#56d9cd'
+  orange:    '#f5a503'
   
