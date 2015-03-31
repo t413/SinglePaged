@@ -344,7 +344,7 @@ nav ul li:hover, nav ul li.active {
     margin-top: -14px;
   }
   .sectiondivider h5 {
-    font-size:15px;
+    font-size:0px;
     bottom:30px;
     width:170px
   }
