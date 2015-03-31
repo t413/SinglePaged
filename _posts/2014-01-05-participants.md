@@ -1,11 +1,9 @@
 ---
-title: ""
+title: "Deltagare"
 bg: pink  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: user
 ---
-
-#DELTAGARE
 
 ### STUDENT/HACKER
 ####Som student på Campus Norrköping kan du hjälpa oss att optimera, förenkla, eller förbättra processerna i den smarta staden, och vi vill att du delar med dig av dina idéer, koncept eller kanske även en prototyp till en ny lösning i den smarta staden. 
