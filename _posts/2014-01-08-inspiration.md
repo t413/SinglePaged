@@ -6,7 +6,7 @@ fa-icon: cogs
 ---
 
 # Inspiration
-#### Så mycket skaparanda!!!
+wow
 
 <div class="icontain">
   <iframe src="//www.youtube.com/embed/8yis7GzlXNM" allowfullscreen></iframe>
