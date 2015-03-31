@@ -14,7 +14,7 @@
 .container .column       { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
 .row                     { margin-bottom: 20px; }
 
-.container .small.column { width: 300px; }
+.container .small.column { width: 280px; margin: 10px;}
 .container .half.column  { width: 460px; }
 .container .big.column   { width: 620px; }
 .container .full.column  { width: 940px; }
@@ -24,7 +24,7 @@
   @media only screen and (min-width: 768px) and (max-width: 959px) {
     .container               { width: 768px; }
 
-    .container .small.column { width: 236px; }
+    .container .small.column { width: 216px; margin: 7px;}
     .container .half.column  { width: 364px; }
     .container .big.column   { width: 488px; }
     .container .full.column  { width: 748px; }
