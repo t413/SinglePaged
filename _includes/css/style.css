@@ -1,3 +1,5 @@
-.small.img {
-max-width: 80%; 
+.smaller.images {
+max-width: 20px !important; 
+background-color: bisque;
+
 }
