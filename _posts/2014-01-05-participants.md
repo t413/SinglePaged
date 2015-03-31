@@ -5,6 +5,8 @@ color: white   #text color
 fa-icon: user
 ---
 
+#DELTAGARE
+
 ### STUDENT/HACKER
 ####Som student på Campus Norrköping kan du hjälpa oss att optimera, förenkla, eller förbättra processerna i den smarta staden, och vi vill att du delar med dig av dina idéer, koncept eller kanske även en prototyp till en ny lösning i den smarta staden. 
 ####Vi kommer att utse 3 vinnare. Priskategorierna är En enklare vardag, Smart boende, och Smarta transporter.
