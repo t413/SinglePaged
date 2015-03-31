@@ -1,8 +1,8 @@
 ---
 title: "Inspiration"
-bg: blue  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: pink  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
-fa-icon: paint-brush
+fa-icon: flask
 ---
 
 #### A new section- oh the humanity!
