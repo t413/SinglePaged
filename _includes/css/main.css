@@ -224,7 +224,7 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
-  font-size:15px;
+  font-size:0px;
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
