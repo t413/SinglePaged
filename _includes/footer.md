@@ -1,8 +1,5 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+HiQ[t413.com](http://www.hiq.se/en/#about-hiq/HiQ-IN-BRIEF)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
 
