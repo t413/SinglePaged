@@ -11,7 +11,7 @@ fa-icon: user
 ## STUDENT/HACKER
 Som student på Campus Norrköping kan du hjälpa oss att optimera, förenkla, eller förbättra processerna i den smarta staden, och vi vill att du delar med dig av dina idéer, koncept eller kanske även en prototyp till en ny lösning i den smarta staden. 
 
-**Vi kommer att utse vinnare i 3 priskategorier - En enklare vardag, Smart boende, och Smarta transporter.**
+Vi kommer att utse vinnare i **3 priskategorier** - **En enklare vardag, Smart boende, och Smarta transporter.**
 
 ##SYSTEMÄGARE
 Som en av systemägarna som vi tror vill optimera, förenkla, eller förbättra processerna i den smarta staden, vill vi helt enkelt att att du är med den 29:e april och beskriver din verksamhet.  
