@@ -15,4 +15,4 @@ Vi tror att Norrköping kan bli ännu bättre, och vårt stadsliv ännu enklare 
 
 Därför vill vi att du är med och bidrar till projektet Smart Norrköping 2020. Projektet syftar till att involvera Norrköpings systemägare och mest kreativa unga talanger i processen att göra Norrköping till en mer attraktiv och hållbar stad. 
 
-Vi påbörjar resan till en Smart Norrköping kl 08.30 den 29:e april. 
+Vi påbörjar resan till en ** Smart Norrköping kl 08.30 den 29:e april. ** 
