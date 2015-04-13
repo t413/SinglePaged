@@ -132,9 +132,9 @@
 	  -moz-border-radius: 3px;
 	  -webkit-border-radius: 3px;
 	  border-radius: 3px;
-	  color: #333;
-	  display: inline-block;
-	  font-size: 16px;
+	  color: #fff;
+	  display: block;
+	  font-size: 17px;
 	  font-weight: bold;
 	  text-decoration: none;
 	  cursor: pointer;
@@ -142,7 +142,7 @@
         margin-left: auto; 
         margin-right: auto; 
 	  line-height: normal;
-	  padding: 15px 20px;
+	  padding: 30px 20px;
 	  font-family: "Raleway" "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 	.button:hover,
