@@ -152,8 +152,8 @@
 	input[type="submit"]:hover,
 	input[type="reset"]:hover,
 	input[type="button"]:hover {
-		color: #fff;
-		background: #f5a503; /* Old browsers */
+		color: #3CA69B;
+		background: #fff;
 	  border: none;
  }
 
@@ -163,7 +163,8 @@
 	input[type="reset"]:active,
 	input[type="button"]:active {
 		border: none;
-		background: #f5a503; /* Old browsers */ }
+		background: #fff;
+        color: #3CA69B;}
 
 	.button.full-width,
 	button.full-width,
