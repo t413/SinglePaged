@@ -150,7 +150,8 @@
 	input[type="button"]:hover {
 		color: #222;
 		background: #ddd; /* Old browsers */
-	  border: none;
+	  border: 1px solid #888;
+ }
 
 	.button:active,
 	button:active,
@@ -158,7 +159,7 @@
 	input[type="reset"]:active,
 	input[type="button"]:active {
 		border: none;
-		background: #ccc; /* Old browsers */
+		background: #ccc; /* Old browsers */ }
 
 	.button.full-width,
 	button.full-width,
