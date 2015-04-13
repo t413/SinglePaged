@@ -360,9 +360,9 @@ nav ul li:hover, nav ul li.active {
     background: url(img/bgnoise.png); 
     background-color: #51cdc1; 
     width: 100%; 
-    margin-top: 50px; 
+    margin-top: 70px; 
     padding-top: 91px;
-    padding-bottom: 84px;
+    padding-bottom: 74px;
 }
 
 .thank-you {
