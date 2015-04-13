@@ -360,6 +360,7 @@ nav ul li:hover, nav ul li.active {
     background-color: #f2385a; 
     background: url(img/bgnoise.png); 
     max-width: 900px; 
+    display: block; 
     margin-left: auto;
     margin-right: auto; 
 }
