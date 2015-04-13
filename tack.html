@@ -24,9 +24,16 @@
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
+      
+    <div class="thankyou">
+    <h1>Tack!</h1>
+    <p>Vad kul att du vill vara med</p>
+    <form>
+    <input type="submit" value="http://hiqlabs.se/smartnorrkoping">    
+    </form>
+    </div>  
 
-
-    {% for page in site.posts2 reversed %}
+    {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
