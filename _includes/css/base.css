@@ -214,7 +214,7 @@
 	textarea,
 	select {
 		border: none;
-		padding: 6px 4px;
+		padding: 6px 15px;
 		outline: none;
 		-moz-border-radius: 2px;
 		-webkit-border-radius: 2px;
@@ -223,6 +223,7 @@
 		color: #333;
 		margin-left: auto;
         margin-right: auto; 
+        height: 50px; 
 		width: 400px;
 		max-width: 100%;
 		display: block;
