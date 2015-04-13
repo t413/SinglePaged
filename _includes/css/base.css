@@ -143,6 +143,8 @@
         margin-right: auto; 
 	  line-height: normal;
 	  padding: 30px 20px;
+    width: 100%; 
+    max-width: 176px; 
 	  font-family: "Raleway" "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 	.button:hover,
