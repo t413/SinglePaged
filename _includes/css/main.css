@@ -359,4 +359,7 @@ nav ul li:hover, nav ul li.active {
 .thank-you {
     background-color: #f2385a; 
     background: url(img/bgnoise.png); 
+    max-width: 900px; 
+    margin-left: auto;
+    margin-right: auto; 
 }
