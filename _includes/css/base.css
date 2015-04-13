@@ -127,11 +127,11 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-        background: #41b3a7; 
+        background: #3CA69B; 
 	  border: none;
-	  -moz-border-radius: 3px;
-	  -webkit-border-radius: 3px;
-	  border-radius: 3px;
+	  -moz-border-radius: 25px;
+	  -webkit-border-radius: 25px;
+	  border-radius: 25px;
 	  color: #fff;
 	  display: block;
 	  font-size: 17px;
@@ -142,9 +142,9 @@
         margin-left: auto; 
         margin-right: auto; 
 	  line-height: normal;
-	  padding: 30px 20px;
+	  padding: 15px 20px;
     width: 100%; 
-    max-width: 176px; 
+    max-width: 400px; 
 	  font-family: "Raleway" "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 	.button:hover,
@@ -152,8 +152,8 @@
 	input[type="submit"]:hover,
 	input[type="reset"]:hover,
 	input[type="button"]:hover {
-		color: #222;
-		background: #ddd; /* Old browsers */
+		color: #fff;
+		background: #3aa1bf; /* Old browsers */
 	  border: none;
  }
 
@@ -163,7 +163,7 @@
 	input[type="reset"]:active,
 	input[type="button"]:active {
 		border: none;
-		background: #ccc; /* Old browsers */ }
+		background: #3aa1bf; /* Old browsers */ }
 
 	.button.full-width,
 	button.full-width,
