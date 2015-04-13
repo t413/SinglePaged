@@ -356,12 +356,18 @@ nav ul li:hover, nav ul li.active {
   }
 }
 
-.thank-you {
-    background-color: #f2385a; 
+.thank-you-container {
     background: url(img/bgnoise.png); 
+    background-color: #f2385a; 
+    width: 100%; 
+    margin-top: 50px; 
+    padding-top: 31px;
+    padding-bottom: 94px;
+}
+
+.thank-you {
     max-width: 900px; 
     display: block; 
     margin-left: auto;
     margin-right: auto; 
-    margin-top: 40px; 
 }

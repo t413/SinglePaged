@@ -24,11 +24,13 @@
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
-      
+     
+    <div class="thank-you-container">
     <div class="thank-you">
     <h1>Härligt!</h1>
     <p>Kul att du vill vara med. Du är nu med på listan för eventet Smart Norrköping. Vi ses den 12:e maj. </p>
     </div>  
+    </div>
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
