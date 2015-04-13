@@ -127,7 +127,7 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-        background: #41b3a7; /* Old browsers */
+        background: #41b3a7; 
 	  border: none;
 	  -moz-border-radius: 3px;
 	  -webkit-border-radius: 3px;
@@ -135,10 +135,12 @@
 	  color: #333;
 	  display: inline-block;
 	  font-size: 16px;
-	  font-weight: regular;
+	  font-weight: bold;
 	  text-decoration: none;
 	  cursor: pointer;
 	  margin-bottom: 20px;
+        margin-left: auto; 
+        margin-right: auto; 
 	  line-height: normal;
 	  padding: 15px 20px;
 	  font-family: "Raleway" "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
@@ -150,7 +152,7 @@
 	input[type="button"]:hover {
 		color: #222;
 		background: #ddd; /* Old browsers */
-	  border: 1px solid #888;
+	  border: none;
  }
 
 	.button:active,
