@@ -142,7 +142,7 @@
         margin-left: auto; 
         margin-right: auto; 
 	  line-height: normal;
-	  padding: 15px 20px;
+	  padding: 12px 20px;
     width: 100%; 
     max-width: 400px; 
 	  font-family: "Raleway" "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
@@ -153,7 +153,7 @@
 	input[type="reset"]:hover,
 	input[type="button"]:hover {
 		color: #fff;
-		background: #3aa1bf; /* Old browsers */
+		background: #f5a503; /* Old browsers */
 	  border: none;
  }
 
@@ -163,7 +163,7 @@
 	input[type="reset"]:active,
 	input[type="button"]:active {
 		border: none;
-		background: #3aa1bf; /* Old browsers */ }
+		background: #f5a503; /* Old browsers */ }
 
 	.button.full-width,
 	button.full-width,
