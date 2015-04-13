@@ -14,6 +14,6 @@ Som student på Campus Norrköping kan du hjälpa oss att optimera, förenkla, e
 Vi kommer att utse vinnare i **3 priskategorier** - **En enklare vardag, Smart boende, och Smarta transporter.**
 
 ##Systemägare
-Som en av systemägarna som vi tror vill optimera, förenkla, eller förbättra processerna i den smarta staden, vill vi helt enkelt att att du är med den 12:e maj och beskriver din verksamhet.  
+Som en av systemägarna som vi tror vill optimera, förenkla, eller förbättra processerna i den smarta staden, vill vi helt enkelt att du är med den 12:e maj och beskriver din verksamhet.  
 
 I retur kommer du få en massa kreativa förslag och idéer till nya utvecklingsområden från Campus Norrköpings användbarhetsexperter, medietekniker, elektronikingenjörer och logistiker som ska vara med och skapa lösningarna för en smartare Norrköping.
