@@ -362,5 +362,6 @@ nav ul li:hover, nav ul li.active {
     max-width: 900px; 
     display: block; 
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto;
+    font-weight: 700; 
 }
