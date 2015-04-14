@@ -174,7 +174,9 @@
 		width: 100%;
 		padding-left: 0 !important;
 		padding-right: 0 !important;
-		text-align: center; }
+		text-align: center;
+        background-color: #3CA69B; 
+        color: #fff; }
 
 	/* Fix for odd Mozilla border & padding issues */
 	button::-moz-focus-inner,
