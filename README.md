@@ -15,6 +15,7 @@ Here're some examples:
   - [@opsbug Tech Inoculator](http://increasingprobability.com/) ([source](https://github.com/increasingprobability/increasingprobability.github.io))
   - [Mobi student organization](https://idappthat.github.io/)-- Mobile UX @ University of Texas at Arlington ([source](https://github.com/idappthat/idappthat.github.io))
 - **Open Source Projects:**
+  - [EssayMaker](http://getessaymaker.com) science fair project made to help write essays.
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
   - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
