@@ -16,10 +16,10 @@ highlighter: pygments
 
 ### content configuration ###
 title:       "Anthony Lee (Teh Lemon)"
-keywords:    "Teh Lemon, Anthony Lee, portfolio, profile, games, programming"
-description: "Personal portfolio site."
+keywords:    "Teh Lemon, Anthony Lee, portfolio, profile, games, programming, software, resume, cv"
+description: "Anthony Lee's portfolio site."
 source_link: "https://github.com/Teh-Lemon/Teh-Lemon.github.io"
-favicon:     #put a path like: "img/favicon.ico"
+favicon:     "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
@@ -35,3 +35,8 @@ colors:
   turquoise: '#0fbfcf'  
   gray:      '#dfdfdf'
   gray2:     '#c6c6c6'
+  brown:     '#A76646'
+  gray3:     '#B8A79D'
+  gray4:     '#B48078'
+  beige:     '#F9EAD5'
+  red:       '#8B3E2A'
