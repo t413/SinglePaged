@@ -22,7 +22,7 @@ html { box-sizing: border-box; }
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
   #{{id}} a { color: {{ fg }}; }
-  #{{id}} .sectiondivider { color: {{ bg }}; }
+  #{{id}} .sectiondivider { color: #f8f8f8; } /* CUSTOM ICON COLOURS */
 {% endfor %}
 
 
@@ -130,6 +130,7 @@ nav ul {
   padding:0;
   margin:0;
   letter-spacing:-4px;
+  /*line-height:10px;*/
 }
 
 nav ul li {
@@ -170,13 +171,13 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
+  padding:100px 0;
   background:url(img/bgnoise.png);
   /* generated noise from noisetexturegenerator.com */
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 90px;
 }
 
 
@@ -200,28 +201,28 @@ nav ul li:hover, nav ul li.active {
 }
 
 .sectiondivider {
-  width:270px;
-  height:270px;
+  width:160px;
+  height:160px;
   padding:15px;
   position:absolute;
-  top:-135px;
+  top:-80px;
   left:50%;
-  margin-left:-135px;
+  margin-left:-80px;
 }
 
 .sectiondivider img {
-  width:200px;
-  height:240px;
+  width:120px;
+  height:120px;
   position: static;
   margin-top: -20px;
 }
 
 .sectiondivider .fa-stack {
-  font-size: 130px;
+  font-size: 70px;
   position: static;
-  margin-top: -8px;
+  margin-top: -2px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+.sectiondivider .fa-circle { color: #424242; }
 
 .sectiondivider h5 {
   font-size:15px;
@@ -234,6 +235,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   z-index:6;
   width:240px;
+  display:none;
 }
 
 .sectiondivider.imaged {
@@ -328,6 +330,7 @@ nav ul li:hover, nav ul li.active {
 
 
   .section { padding:130px 0; }
+  /*
   .sectiondivider {
     width:200px;
     height:200px;
@@ -348,7 +351,7 @@ nav ul li:hover, nav ul li.active {
     bottom:30px;
     width:170px
   }
-
+*/
   .columned {
     -webkit-column-count: 2;
     -moz-column-count:    2;
