@@ -41,3 +41,4 @@ colors:
   beige:     '#F9EAD5'
   red:       '#8B3E2A'
   blackHead: '#404040'
+  redWarn:   '#ff0000'
