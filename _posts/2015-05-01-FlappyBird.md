@@ -1,8 +1,16 @@
 ---
 title: "Flappy Bird"
-bg: white
-color: black
-fa-icon: rocket
+bg: blackHead
+color: white
+fa-icon: code
 ---
 
-TODO
+
+# Flappy Bird CMD Game
+
+
+### A command driven, turn-based version of Flappy Bird.
+
+![Comedy Magician Bay Area](img/screenshots/flappybird.png)
+
+[Source code](https://github.com/Teh-Lemon/Flappy-Bird-Command-Line-Game)
