@@ -9,9 +9,16 @@ safe: false
 exclude: [CNAME, README.md, .gitignore]
 permalink: / ## disables post output
 timezone: null
+safe: true
 lsi: false
 markdown: kramdown
 highlighter: pygments
+
+kramdown:
+  auto_ids: false
+  
+github:
+  repository_url: "https://github.com/Teh-Lemon/Teh-Lemon.github.io"
 
 
 ### content configuration ###

@@ -1,8 +1,8 @@
 ---
-title: "Onset Detection"
+title: "Other"
 bg: gray
 color: black
-fa-icon: rocket
+fa-icon: user
 ---
 
 TODO

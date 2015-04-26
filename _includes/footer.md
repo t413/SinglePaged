@@ -1,1 +1,1 @@
-Last updated: 24/04/2015
+[Source Code]({{ site.github.repository_url }}) : Last updated: {{ site.time | date_to_string }}

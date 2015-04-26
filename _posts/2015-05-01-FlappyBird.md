@@ -2,7 +2,7 @@
 title: "Flappy Bird"
 bg: blackHead
 color: white
-fa-icon: code
+fa-icon: gamepad
 ---
 
 
