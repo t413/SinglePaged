@@ -79,7 +79,7 @@ hr {
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
-    margin-top: 40px;
+    margin-top: 0px; /* Padding above first new paragraphs. Reduced from 40 */
 }
 
 /* keep embedded videos fluid! */
@@ -143,7 +143,7 @@ nav ul li {
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  line-height:60px;
+  line-height:30px; /* Reduced header height from 60 */
   margin:0;
 }
 
@@ -177,7 +177,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .section:first-of-type {
-    padding-top: 120px;
+    padding-top: 60px; /* Space between header and first section Reduced from 120 */
 }
 
 
