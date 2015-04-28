@@ -185,7 +185,7 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#373737;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
@@ -222,7 +222,7 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -2px;
 }
-.sectiondivider .fa-circle { color: #424242; }
+.sectiondivider .fa-circle { color: #373737; } /* #424242 old gray */
 
 .sectiondivider h5 {
   font-size:15px;
@@ -330,7 +330,7 @@ nav ul li:hover, nav ul li.active {
 
 
   .section { padding:130px 0; }
-  /*
+  
   .sectiondivider {
     width:200px;
     height:200px;
@@ -351,7 +351,7 @@ nav ul li:hover, nav ul li.active {
     bottom:30px;
     width:170px
   }
-*/
+
   .columned {
     -webkit-column-count: 2;
     -moz-column-count:    2;
