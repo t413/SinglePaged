@@ -378,9 +378,9 @@ nav ul li:hover, nav ul li.active {
 
 .decorline {
     display: block; 
-    margin: 60px auto; 
+    margin: 40px auto 30 auto; 
     height: 2px; 
-    width: 20px;
+    width: 40px;
     border-radius: 10px; 
     background-color: white;
 }
