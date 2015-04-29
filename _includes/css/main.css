@@ -375,3 +375,12 @@ nav ul li:hover, nav ul li.active {
     color: #fff; 
     font-size: 17px; 
 }
+
+.decorline {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    height: 1px; 
+    width: 10px; 
+    background-color: white; 
+}

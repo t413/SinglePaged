@@ -14,6 +14,7 @@
 .container .column       { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
 .row                     { margin-bottom: 20px; }
 
+.container .smallest.column { width: 230px; }
 .container .small.column { width: 300px; }
 .container .half.column  { width: 460px; }
 .container .big.column   { width: 620px; }
@@ -23,7 +24,8 @@
 /* ----- Tablet (Portrait) -- 768px ----- */
   @media only screen and (min-width: 768px) and (max-width: 959px) {
     .container               { width: 768px; }
-
+      
+    .container .smallest.column { width: 190px; }
     .container .small.column { width: 236px;}
     .container .half.column  { width: 364px; }
     .container .big.column   { width: 488px; }
@@ -35,7 +37,8 @@
   @media only screen and (max-width: 767px) {
     .container                { width:  96%; }
     .container .column        { margin:  1%; }
-
+      
+    .container .smallest.column { width: 48%; }
     .container .small.column { width: 48%; }
     .container .half.column  { width: 48%; }
     .container .big.column   { width: 98%; }
