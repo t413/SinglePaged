@@ -1,7 +1,7 @@
 ---
 title: "Education"
-bg: paleGreen
-color: black
+bg: vsFileBG
+color: vsText
 fa-icon: university
 ---
 # Education

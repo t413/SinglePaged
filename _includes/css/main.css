@@ -121,7 +121,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:#333333; /* Header colour */
 }
 
 nav ul {
@@ -143,7 +143,7 @@ nav ul li {
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  line-height:30px; /* Reduced header height from 60 */
+  line-height:20px; /* Reduced header height from 60 */
   margin:0;
 }
 
@@ -226,7 +226,7 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -2px;
 }
-.sectiondivider .fa-circle { color: #373737; } /* #424242 old gray */
+.sectiondivider .fa-circle { color: #cacc00; } /* #424242 old gray */
 
 .sectiondivider h5 {
   font-size:15px;
