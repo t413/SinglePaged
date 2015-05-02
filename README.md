@@ -1,3 +1,3 @@
+# [Open Website](https://Teh-Lemon.github.io) (WIP)
 
-This is a compressed-commit version of
-[github.com/t413/SinglePaged](https://github.com/t413/SinglePaged)
+Personal portfolio site built with Jekyll, based on the [SinglePaged theme](https://github.com/t413/SinglePaged).

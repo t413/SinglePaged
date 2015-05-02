@@ -9,28 +9,70 @@ safe: false
 exclude: [CNAME, README.md, .gitignore]
 permalink: / ## disables post output
 timezone: null
+safe: true
 lsi: false
 markdown: kramdown
 highlighter: pygments
 
+kramdown:
+  auto_ids: false
+  
+github:
+  repository_url: "https://github.com/Teh-Lemon/Teh-Lemon.github.io"
+
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
+title:       "Anthony Lee (Teh Lemon)"
+keywords:    "Teh Lemon, Anthony Lee, portfolio, profile, games, programming, software, resume, cv"
+description: "Anthony Lee's portfolio site."
+source_link: "https://github.com/Teh-Lemon/Teh-Lemon.github.io"
+favicon:     "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  
+  black:       '#111111'
+  white:       '#f8f8f8'
+  blue:        '#49a7e9'
+  green:       '#9bcf2f'
+  purple:      '#c869bf'
+  orange:      '#fab125'
+  turquoise:   '#0fbfcf'  
+  gray:        '#dfdfdf'
+  gray2:       '#c6c6c6'
+  brown:       '#A76646'
+  gray3:       '#B8A79D'
+  gray4:       '#B48078'
+  beige:       '#F9EAD5'
+  red:         '#8B3E2A'
+  blackHead:   '#404040'
+  redWarn:     '#ff0000'
+  grayCanvas:  '#262626'
+  grayUI:      '#535353'
+  grayUIBG:    '#464646'
+  grayUIHead:  '#373737'
+  grayUIHead2: '#3a3a3a'
+  whiteIcon:   '#bababa'
+  grayMenuBar: '#ebebeb'
+  darkVStext:  '#1e1e1e'
+  darkVSUI:    '#2d2d30'
+  paleYellow:  '#f9f9d5'
+  paleGreen:   '#d5f9d6'
+  paleLightBlue: '#d5f9f9'
+  paleRed:     '#f9d5d5'
+  paleOrange:  '#f9ead5'
+  paleBlue:    '#d5d7f9'
+  palePurple:  '#e5d5f9'
+  paleGray:    '#e5d5f9'
+  arsDark2:    '#191818'
+  vsTextBG:    '#1e1e1e'
+  vsFileBG:    '#252526'
+  vsFileHead:  '#2e2e2f'
+  vsFileHighlight: '#3f3f46'
+  vsUIBar:     '#333333'
+  vsIcon:      '#adadad'
+  vsIconOn:    '#ffffff'
+  vsBlue:      '#007acc'
+  vsText:      '#d4d4d4'
