@@ -2,7 +2,7 @@
 title: "Education"
 bg: vsFileBG
 color: vsText
-fa-icon: university
+fa-icon: graduation-cap
 ---
 # Education
 
