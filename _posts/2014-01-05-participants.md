@@ -15,7 +15,7 @@ Vi tror att tävlingen blir roligast och idéerna bäst om ni arbetar i s.k. cro
 
 Det finns förstås möjlighet att bilda lag på plats den 12:e, så tveka inte att anmäla dig som individ om du inte hittar ett eget lag innan dess.
 
-Vi kommer att utse vinnare i **3 priskategorier** - **En enklare vardag, Smart boende, och Smarta transporter.**
+Vi kommer att utse vinnare i **4 priskategorier** - **Smart boende, Den smarta hamnen, En smartare stad genom väderdata, och Innovativ användning av stads-WiFi.**
 
 ##Systemägare
 Som en av systemägarna som vi tror vill optimera, förenkla, eller förbättra processerna i den smarta staden, vill vi helt enkelt att du är med den 12:e maj och beskriver din verksamhet.  
