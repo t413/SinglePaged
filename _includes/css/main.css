@@ -384,3 +384,7 @@ nav ul li:hover, nav ul li.active {
     border-radius: 10px; 
     background-color: white;
 }
+
+input[type="submit"] {
+-webkit-appearance: none;
+}
