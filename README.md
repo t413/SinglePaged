@@ -68,6 +68,7 @@ Here're some examples:
   - [Emil Ahlbäck](https://mull.github.io/) ([source](https://github.com/mull/mull.github.io))
   - [Péter Sólymos](http://peter.solymos.org/) 'statistical computing meets biodiversity conservation' ([source](https://github.com/psolymos/psolymos.github.io))
   - [My First Password](http://doublejosh.github.io/myfirstpassword/) (guide for choosing passwords) ([source](https://github.com/doublejosh/myfirstpassword/))
+  - [Jonathan 'JJ' Asghar](http://jjasghar.github.io/resume) resume ([source](https://github.com/jjasghar/resume))
 - *Let me know of more!*
 
 
