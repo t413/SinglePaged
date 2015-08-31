@@ -1,6 +1,6 @@
 ---
 title: "Deltagarinfo"
-bg: pink  #defined in _config.yml, can use html color like '#0fbfcf'
+bg: green  #defined in _config.yml, can use html color like '#0fbfcf'
 color: white   #text color
 fa-icon: user
 ---
@@ -12,7 +12,7 @@ Som medarbetare inom Norrköpings Kommun är din erfarenhet och dina kunskaper o
 
 Vi vill därför att du bidrar till utvecklingen av morgondagens Norrköping genom denna workshop där du får möjlighet att dela med dig av idéer, förslag, önskemål eller drömmar om nya lösningar som förenklar livet i den smarta staden. 
 
-##Några frågor som kanske kan inspirera till tankar och idéer innan vi ses den 23:e 
+**Några frågor som kanske kan inspirera till tankar och idéer innan vi ses den 23:e**
 
 - Hur kan framtidens Norrköping bli smartare och bättre genom nytt tänkande & ny teknik? 
 - Hur vill ni att stadslivet skall vara 2020?Vad gör en stad attraktiv?
