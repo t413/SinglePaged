@@ -15,7 +15,8 @@ Vi vill därför att du bidrar till utvecklingen av morgondagens Norrköping gen
 **Några frågor som kanske kan inspirera till tankar och idéer innan vi ses den 23:e**
 
 - Hur kan framtidens Norrköping bli smartare och bättre genom nytt tänkande & ny teknik? 
-- Hur vill ni att stadslivet skall vara 2020?Vad gör en stad attraktiv?
+- Hur vill ni att stadslivet skall vara 2020?
+- Vad gör en stad attraktiv?
 - Vilken roll kan ny teknik spela? 
 - Hur kan appar förenkla för invånare och/eller kommunens medarbetare? 
 - Hur effektiserar vi stadens verksamheter med hjälp av ny teknik?
