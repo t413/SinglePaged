@@ -13,6 +13,6 @@ En stad blir ofta inte bättre än summan av sina system. En smart stad har ett 
 
 Vi tror att Norrköping kan bli ännu bättre, och vårt stadsliv ännu enklare genom en smart användning av ny teknik, en större integration av befintliga system, och en kreativ injektion av idéer från morgondagens stadsinvånare.
 
-Därför vill vi att du är med och bidrar till projektet Smart Norrköping 2020. Projektet syftar till att involvera Norrköpings systemägare och mest kreativa unga talanger i processen att göra Norrköping till en mer attraktiv och hållbar stad. 
+Därför vill vi att du är med och bidrar till projektet **Smart Norrköping 2020.** Projektet syftar till att involvera Norrköpings Kommun och invånare i processen att göra Norrköping till en mer attraktiv och hållbar stad. 
 
-Vi påbörjar resan till en **Smart Norrköping på Visualiseringscenter C, kl 10.00 den 12:e maj.**
+Vi påbörjar vår resa till en smartare **Norrköping den 23 september kl 08.00 – 12.00, i Strykbrädan, Laxholmstorget 3.**
