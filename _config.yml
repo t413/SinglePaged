@@ -8,29 +8,28 @@ safe: false
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
 permalink: / ## disables post output
-timezone: null
+timezone: Europe/Stockholm
 lsi: false
 markdown: kramdown
 highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+title:       "Smart Norrköping"
+keywords:    "Smart City, Norrköping, HiQ, Smart, Intelligent, Heart, City, Peking"
+description: "Developing the digital heart and pulse of Sweden's most innovative city."
+source_link: 
+favicon:     "img/smartnkpng_favicon.png"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-61325538-2
 
 
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  pink:      '#f2385a'
+  blue:     '#3aa1bf'
+  green:    '#51cdc1'
+  orange:    '#f5a503'
   

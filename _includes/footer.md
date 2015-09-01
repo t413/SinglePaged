@@ -1,8 +1,8 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+[HiQ](http://www.hiq.se/en/#about-hiq/HiQ-IN-BRIEF/)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Smart Norrköping
 &mdash;
-this site is [open source]({{ site.source_link }})
+2020
 

@@ -24,11 +24,16 @@
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
-
+     
+    <div class="thank-you-container">
+    <div class="thank-you">
+    <h1>Härligt!</h1>
+    <p>Kul att du vill vara med. Du är nu med på listan för eventet Smart Norrköping. <b>Vi ses den 23:e september.</b> </p>
+    </div>  
+    </div>
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-      <a href="#{{id}}"></a>
       <div id="{{id}}" class="section p-{{id}}">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
@@ -60,10 +65,7 @@
   </div>
 
 {% include analytics.html %}
-    
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>
-
-
 </html>

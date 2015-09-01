@@ -53,9 +53,10 @@ pre {
 /* ----- base elements ----- */
 
 img {
-  max-width:100%!important;
+  max-width:95%!important;
   height:auto;
   vertical-align:middle;
+    margin-top: 30px; 
 }
 
 hr {
@@ -224,7 +225,7 @@ nav ul li:hover, nav ul li.active {
 .sectiondivider .fa-circle { color: #fff; }
 
 .sectiondivider h5 {
-  font-size:15px;
+  font-size:0px;
   font-weight:700;
   text-transform:uppercase;
   position:absolute;
@@ -344,7 +345,7 @@ nav ul li:hover, nav ul li.active {
     margin-top: -14px;
   }
   .sectiondivider h5 {
-    font-size:15px;
+    font-size:0px;
     bottom:30px;
     width:170px
   }
@@ -354,4 +355,36 @@ nav ul li:hover, nav ul li.active {
     -moz-column-count:    2;
     column-count:         2;
   }
+}
+
+.thank-you-container {
+    background: url(img/bgnoise.png); 
+    background-color: #51cdc1; 
+    width: 100%; 
+    margin-top: 60px; 
+    padding-top: 91px;
+    padding-bottom: 64px;
+}
+
+.thank-you {
+    max-width: 900px; 
+    display: block; 
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: center; 
+    color: #fff; 
+    font-size: 17px; 
+}
+
+.decorline {
+    display: block; 
+    margin: 60px auto 0 auto; 
+    height: 3px; 
+    width: 60px;
+    border-radius: 10px; 
+    background-color: white;
+}
+
+input[type="submit"] {
+-webkit-appearance: none;
 }
