@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Tigris-consulting société qui déboite du slip
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+contact@tigris-consulting.fr
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+Bientôt dans ta société gros !
