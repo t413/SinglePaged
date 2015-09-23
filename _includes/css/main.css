@@ -109,6 +109,22 @@ hr {
 /* ----- Main Structure ----- */
 /* ---------------------------*/
 
+/*changé ici*/
+#Cover {
+  height:200px;
+  width:100%;
+  text-align:center;
+  background-color:yellow;
+  position:fixed;
+  z-index:100;
+  top:0;
+  left:0;
+}
+
+.logo{
+	height:150px;
+}
+
 /* ----- top menu ----- */
 
 {% assign navborder = 3 %}
@@ -117,6 +133,8 @@ hr {
 nav {
   font-size:15px;
   width:100%;
+  /*changé ici*/
+  /*margin-top:200px;*/
   position:fixed;
   z-index:100;
   top:0;
