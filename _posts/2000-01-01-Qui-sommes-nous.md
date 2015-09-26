@@ -1,7 +1,7 @@
 ---
 title: "Qui somme nous"
-bg: white
-color: black
+bg: bleu1
+color: blue
 style: center
 ---
 

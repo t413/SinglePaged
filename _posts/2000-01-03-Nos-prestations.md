@@ -1,7 +1,7 @@
 ---
 title: "Prestations"
-bg: gray
-color: black
+bg: bleu3
+color: white
 fa-icon: area-chart
 ---
 

@@ -139,7 +139,15 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:#101E21;
+}
+
+.triangle{
+  position:fixed;
+  z-index:100;
+  bottom:0;
+  left:0;
+	
 }
 
 nav ul {

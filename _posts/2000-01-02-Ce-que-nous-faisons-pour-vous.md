@@ -1,6 +1,6 @@
 ---
 title: "Que faisons nous ?"
-bg: black
+bg: bleu2
 color: white
 fa-icon: line-chart
 ---
