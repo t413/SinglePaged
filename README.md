@@ -34,12 +34,13 @@ Here're some examples:
   - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
   - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
   - [FeedReader](http://jangernert.github.io/feedreader/) Desktop RSS client ([source](https://github.com/jangernert/feedreader/tree/gh-pages))
-- **Events / Confrences**
+- **Events / Conferences**
   - [Code Across 2015 @Seoul](http://codeforseoul.org/codeacross/) 전 세계 시빅해커들과 함께 하는 ([source](https://github.com/codeforseoul/codeacross))
   - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
   - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
   - [Open CoMo](http://jakewins.github.io/opencomo-site/) Open-Data Incubator for Columbia, MO. 13th-15th of November 2015 ([source](https://github.com/jakewins/opencomo-site))
+  - [CodeWeek 15 @ DI](http://cesium.github.io/codeweek15) CodeWeek at the University of Minho in 2015 by [CeSIUM](http://cesium.di.uminho.pt) - ([source](http://github.com/cesium/codeweek15))
 - **Personal:**
   - [Karen and Scott wedding](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
   - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
