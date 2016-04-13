@@ -135,7 +135,11 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
+<<<<<<< HEAD
   padding: {{navborder}}px 0;
+=======
+  padding: {{navborder}}px;
+>>>>>>> gh-pages
   *display:inline;
   zoom:1;
   line-height:normal;

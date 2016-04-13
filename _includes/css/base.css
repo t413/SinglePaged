@@ -52,7 +52,11 @@
 ================================================== */
 	body {
 		background: #fff;
+<<<<<<< HEAD
 		font: 14px/21px "Raleway" "HelveticaNeue-Light", Arial, sans-serif;
+=======
+		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
+>>>>>>> gh-pages
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -363,4 +367,8 @@ span.lineno {
 .gh { } /* Generic Heading & Diff Header */
 .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
 .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
+<<<<<<< HEAD
 .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
+=======
+.gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
+>>>>>>> gh-pages
