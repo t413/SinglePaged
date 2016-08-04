@@ -1,5 +1,5 @@
 ---
----
+--
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
@@ -16,7 +16,9 @@
 </head>
 <body>
   <div id="main">
+	<img src="img/Triangle.png" class="triangle" />
 
+  
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
@@ -48,7 +50,7 @@
       </div>
     {% endfor %}
 
-
+	
     <div id="footer" class="section text-white">
       <div class="container">
         {% capture foottext %} {% include footer.md %} {% endcapture %}
