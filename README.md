@@ -33,7 +33,9 @@ Here're some examples:
   - [The Rosette Platform](https://rosette-proj.github.io/)- git-based, internationalization framework (Ruby) ([source](https://github.com/rosette-proj/rosette-proj.github.io))
   - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
   - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
-  - [FeedReader](http://jangernert.github.io/feedreader/) Desktop RSS client ([source](https://github.com/jangernert/feedreader/tree/gh-pages))
+  - [FeedReader](http://jangernert.github.io/feedreader/) Desktop RSS client ([source](https://github.com/jangernert/feedreader/tree/gh-pages)) 
+  - [Easy Shell](http://lucasviola.github.io/easyshell/) Linux and Shell Commands the Easy Way
+([source](https://github.com/lucasviola/easyshell/tree/gh-pages)) 
 - **Events / Confrences**
   - [Code Across 2015 @Seoul](http://codeforseoul.org/codeacross/) 전 세계 시빅해커들과 함께 하는 ([source](https://github.com/codeforseoul/codeacross))
   - [ACEMP - OPTIM - Electromotion](http://odtu.github.io/acemp/) Joint International Conference in Side, Turkey ([source](https://github.com/odtu/acemp/))
