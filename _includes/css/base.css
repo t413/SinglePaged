@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "Raleway" "HelveticaNeue-Light", Arial, sans-serif;
+		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -267,14 +267,14 @@
   ================================================== */
 
 
-.highlighttable {
+.highlight {
   color: #f8f8f2;
   table-layout: fixed;
   white-space: nowrap;
   width:90%;
 }
 
-.highlighttable pre, .highlighttable code { display:block; margin:0; padding:0; background: none; overflow:auto; word-wrap: normal; }
+.highlight pre, .highlight code { display:block; margin:0; padding:0; background: none; overflow:auto; word-wrap: normal; }
 
 .highlight, .linenodiv {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWPQ1dU1BgABzQC7XXMTYQAAAABJRU5ErkJggg==);
@@ -282,11 +282,11 @@
   padding: 10px;
   margin-bottom:20px;
 }
-.linenodiv, .lineno { color: #ccc; }
+.gutter, .lineno { color: #ccc; }
 
-td.linenos { width: 40px; }
+td.gl { width: 40px; }
 
-.linenodiv {
+.gutter {
   border-right: none;
   padding: 10px;
   text-align: right;
