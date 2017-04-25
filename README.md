@@ -33,6 +33,7 @@ Here're some examples:
   - [FeedReader](http://jangernert.github.io/FeedReader/) Desktop RSS client ([source](https://github.com/jangernert/FeedReader/tree/gh-pages))
   - [Coala Analyzer](http://coala-analyzer.org/) command-line interface for linting ([source](https://github.com/coala-analyzer/website))
   - [Easy Shell](http://lucasviola.github.io/easyshell/) Linux and Shell Commands the Easy Way ([source](https://github.com/lucasviola/easyshell/tree/gh-pages)) 
+  - [Nerd Fonts](http://nerdfonts.com/) Iconic font aggregator, collection, and patcher ([source](https://github.com/ryanoasis/nerd-fonts/tree/gh-pages))
 - **Events / Conferences**
   - [CodeWeek 15 @ DI](http://cesium.github.io/codeweek15) CodeWeek at the University of Minho in 2015 by [CeSIUM](http://cesium.di.uminho.pt) - ([source](http://github.com/cesium/codeweek15))
   - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
