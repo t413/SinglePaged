@@ -14,7 +14,7 @@ Here're some examples:
   - [ALM](http://alm.tools/) A cloud ready IDE for TypeScript ([source](https://github.com/alm-tools/alm-tools.github.io))
   - [argon.js](http://argonjs.io/) JS framework for adding augmented reality to web apps ([source](https://github.com/argonjs/argonjs.github.io))
   - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
-  - [REMnux](http://www.elabftw.net/) Electronic lab notebook ([source](https://github.com/elabftw/elabftw/tree/gh-pages))
+  - [eLabFTW](https://www.elabftw.net/) Electronic lab notebook ([source](https://github.com/elabftw/elabweb))
   - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
   - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
   - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
