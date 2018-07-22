@@ -1,6 +1,6 @@
 ---
 title: "Bewerbung"
-bg: red
+bg: green
 color: white
 fa-icon: file-text-o
 ---
