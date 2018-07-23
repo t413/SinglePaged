@@ -7,6 +7,6 @@ fa-icon: file-text-o
 
 ## Bewirb dich jetzt!
 
-Schreib uns einfach kurz deine Idee an nikolaus@viperdev.io mit dem Betreff "ViperDev Nikolaus Pitch" :)
+Beantworte uns einfach ein paar kurze Fragen [hier](https://sils1.typeform.com/to/TsR3Vv) - wir melden uns innerhalb von einer Woche mit weiteren Informationen.
 
-Ein paar kurze Fragen folgen in Kürze.
+Wir nehmen Bewerbungen bis zum 30. November an - aber! - je früher du dich bewirbst desto besser sind deine Chancen.
