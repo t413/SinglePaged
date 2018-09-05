@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "A Toolkit for Algorithms"
+keywords:    "algorithms, data, data science, machine learning"
+description: "TBA"
+source_link: "https://www.techatbloomberg.com/blog/new-toolkit-data-science-ethics-debut-bloombergs-data-good-exchange/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
