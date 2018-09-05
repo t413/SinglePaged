@@ -1,5 +1,5 @@
 ---
-title: "setup details"
+title: "Background"
 bg: orange
 color: black
 style: center
