@@ -1,5 +1,5 @@
 ---
-title: "home"
+title: "Introduction"
 bg: white
 color: black
 style: center
