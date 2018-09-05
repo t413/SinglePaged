@@ -2,6 +2,7 @@
 title: "usage"
 bg: '#63BD2F'
 color: white
+style: center
 ---
 
 ### Overview
