@@ -10,3 +10,7 @@ style: center
 
 
 The question isn’t about whether you should be doing this, but when you are going to start.
+
+## About the team
+
+ADD
