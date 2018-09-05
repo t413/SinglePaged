@@ -2,6 +2,7 @@
 title: "setup details"
 bg: orange
 color: black
+style: center
 ---
 
 ## Background
