@@ -2,7 +2,6 @@
 title: "Background"
 bg: orange
 color: black
-style: center
 ---
 
 ## Background
