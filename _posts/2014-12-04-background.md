@@ -6,7 +6,8 @@ color: black
 
 ## Background
 
-- We saw a gap. There are many calls to arms and lots of policy papers but nothing practitioner-facing with a repeatable, manageable process. We wanted something risk-based with a menu of mitigations for each risk level.
+- We saw a gap. There are many calls to arms and lots of policy papers (*INCLUDE LINK TO DATASF WHITE PAPER*) but nothing practitioner-facing with a repeatable, manageable process. 
+- We wanted something risk-based with a menu of mitigations for each risk level.
 - Keep in mind: There is no such thing as unbiased data or unbiased algorithms.
 
 -------------------------
