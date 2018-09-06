@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "A Toolkit for Algorithms"
-keywords:    "algorithms, data, data science, machine learning"
-description: "TBA"
+title:       "Ethics & Algorithms Toolkit"
+keywords:    "algorithms, data, data science, machine learning, government data"
+description: "Instead of wringing our hands about ethics and artificial intelligence, our toolkit puts an approachable and feasible solution in the hands of government practitioners - something that they can use immediately, without complicated policy overhead."
 source_link: "https://www.techatbloomberg.com/blog/new-toolkit-data-science-ethics-debut-bloombergs-data-good-exchange/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
