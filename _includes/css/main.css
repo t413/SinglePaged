@@ -302,8 +302,37 @@ nav ul li:hover, nav ul li.active {
     box-sizing: content-box;
   }
 }
+/*-----my own stuff------*/
+.block-slogan {
+    position: relative;
+    bottom: 15%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
 
+.block-slogan h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 1.5em;
+    width: auto;
+    padding: 0 0.5em;
+    margin: 30px;
+    line-height: 1.4;
+}
 
+.block-slogan span {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #093099;
+    display: inline;
+    box-shadow: 0 16px 24px 0 rgba(0,0,0,0.4);
+    -webkit-box-decoration-break: clone;
+    -ms-box-decoration-break: clone;
+    -o-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
