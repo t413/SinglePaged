@@ -10,6 +10,21 @@ color: black
 - We wanted something risk-based with a menu of mitigations for each risk level.
 - Keep in mind: There is no such thing as unbiased data or unbiased algorithms.
 
+### First, we want to clarify that we believe:
+- All data has bias.
+- All algorithms have bias.
+- The collection of data is a separate effort from the analysis and appropriate use of it.
+- You can judge the fairness of your algorithm by comparing the current version to former versions. How has it grown and what change has been infused within it?
+
+### Also, we are assume that:
+- You, the user, have some knowledge of data science concepts or experience with algorithms
+- Largely understand your data
+
+### The goals of the toolkit are to:
+- Elicit conversation
+- Encourage risk evaluation as a team
+- Catalyze proactive mitigation strategy planning 
+
 -------------------------
 
 ## What is an algorithm?
