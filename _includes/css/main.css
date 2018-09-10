@@ -364,6 +364,60 @@ nav ul li:hover, nav ul li.active {
     cursor: pointer;
 }
 
+.pricebox {
+  position: relative;
+  display: block;
+  width: 700px;
+  margin-left: inherit;
+  margin-right: inherit;
+  margin-top: 50px;
+}
+.pricebox header{
+  position: relative;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  display: block;
+  width: auto;
+  margin-left: inherit;
+  margin-right: inherit;
+  background-color: #AC4947;
+}
+
+.pricebox span{
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  display: inline;
+  text-align: center;
+  font-size: 16px;
+  align: right;
+  color: white;
+}
+
+.pricebox h6{
+  color: white !important;
+  vertical-align: middle;
+  text-align: left;
+  display: inline-block;
+}
+
+.pricebox img {
+  float: left;
+  position: sticky;
+}
+
+.pricebox text{
+  display: inline-block;
+  font-size: 13px;
+  position: relative;
+  width: 500px;
+  padding-left: 100px;
+  padding-top: 10px;
+
+}
+
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
