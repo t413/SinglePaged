@@ -176,7 +176,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 50px;
 }
 
 
@@ -302,7 +302,7 @@ nav ul li:hover, nav ul li.active {
     box-sizing: content-box;
   }
 }
-/*-----my own stuff------*/
+/*-----Stuff Chris Added------*/
 .block-slogan {
     position: relative;
     bottom: 15%;
@@ -315,7 +315,7 @@ nav ul li:hover, nav ul li.active {
 .block-slogan h1 {
     text-align: center;
     color: #fff;
-    font-size: 1.5em;
+    font-size: 1.0em;
     width: auto;
     padding: 0 0.5em;
     margin: 30px;
@@ -323,6 +323,8 @@ nav ul li:hover, nav ul li.active {
 }
 
 .block-slogan span {
+    padding-top:10px;
+    padding-bottom: 10px;
     padding-left: 30px;
     padding-right: 30px;
     background-color: #093099;
@@ -333,6 +335,35 @@ nav ul li:hover, nav ul li.active {
     -o-box-decoration-break: clone;
     box-decoration-break: clone;
 }
+#img-text {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+}
+.member {
+  color: black;
+  float:left;
+  width: 50%;
+  margin: 1% 1% 45px 1%
+}
+
+.member img {
+  display: block;
+  margin: 0 auto;
+}
+
+.button {
+    background-color: #AC4947;
+    border: none;
+    color: white !important;
+    padding: 10px 25px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 
 /* mid size (tablets, landscapes) */
 @media only screen and (max-width: 679px) {
