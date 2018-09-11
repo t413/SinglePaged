@@ -21,7 +21,7 @@ GovEx, the City and County of San Francisco, Harvard DataSmart, and Data Communi
 ### Our goals for the toolkit are to:
 - Elicit conversation.
 - Encourage risk evaluation as a team.
-- Catalyze proactive mitigation strategy planning .
+- Catalyze proactive mitigation strategy planning.
 
 -------------------------
 
