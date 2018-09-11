@@ -184,7 +184,7 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#9fa1a5;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
@@ -195,7 +195,7 @@ nav ul li:hover, nav ul li.active {
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
-  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
+  box-shadow: 0px 1px 15px rgba(0,0,0,0.2);
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
 }
 
@@ -341,6 +341,7 @@ nav ul li:hover, nav ul li.active {
   display: flex;
 }
 .member {
+  position:relative;
   color: black;
   float:left;
   width: 50%;
@@ -385,6 +386,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .pricebox span{
+  font-style: normal;
   padding-top:10px;
   padding-bottom: 10px;
   padding-left: 30px;
@@ -398,6 +400,7 @@ nav ul li:hover, nav ul li.active {
 
 .pricebox h6{
   color: white !important;
+  font-style: normal;
   vertical-align: middle;
   text-align: left;
   display: inline-block;
@@ -408,7 +411,7 @@ nav ul li:hover, nav ul li.active {
   position: sticky;
 }
 
-.pricebox text{
+.pricebox p{
   display: inline-block;
   font-size: 13px;
   position: relative;
@@ -416,6 +419,16 @@ nav ul li:hover, nav ul li.active {
   padding-left: 100px;
   padding-top: 10px;
 
+}
+
+.smalltextbox {
+  align: center
+  width: 200px
+  display: inline-block;
+  text-align: center;
+}
+.smalltextbox p{
+  font-size: 12px;
 }
 
 
