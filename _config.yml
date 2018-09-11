@@ -6,7 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, gemfile]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -17,10 +17,10 @@ markdown: kramdown
 title:       "Ethics & Algorithms Toolkit"
 keywords:    "algorithms, data, data science, machine learning, government data"
 description: "Instead of wringing our hands about ethics and artificial intelligence, our toolkit puts an approachable and feasible solution in the hands of government practitioners - something that they can use immediately, without complicated policy overhead."
-source_link: "https://www.techatbloomberg.com/blog/new-toolkit-data-science-ethics-debut-bloombergs-data-good-exchange/"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+# source_link: "https://www.techatbloomberg.com/blog/new-toolkit-data-science-ethics-debut-bloombergs-data-good-exchange/"
+# favicon:     "https://govex.jhu.edu/wp-content/themes/govex-wiki/assets/img/favicon.png"
+# touch_icon:  "https://govex.jhu.edu/wp-content/themes/govex-wiki/assets/img/favicon.png"
+google_analytics_key: UA-67501679-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -28,8 +28,8 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
+  green:     '#86c8bc'
+  purple:    '#8e3a80'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
