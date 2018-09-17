@@ -27,6 +27,8 @@ GovEx, the City and County of San Francisco, Harvard DataSmart, and Data Communi
 
 ### We assumed:
 - Algorithm use in government is inevitable.
+- Data collection is typically a separate effort with different intentions from the analysis and use of it.
 - All data has bias.
 - All algorithms have bias.
-- The collection of data is a separate effort from the analysis and appropriate use of it.
+- All people have bias. (Thanks #D4GX!)
+
