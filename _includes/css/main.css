@@ -75,7 +75,7 @@ hr {
 }
 .container p, .container ol, .container ul {
   font-size: 17px;
-  padding: 0 5%;
+  padding: 0 0;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
@@ -323,6 +323,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .block-slogan span {
+  font-family: arial, sans-serif;
     padding-top:10px;
     padding-bottom: 10px;
     padding-left: 30px;
@@ -354,15 +355,23 @@ nav ul li:hover, nav ul li.active {
 }
 
 .button {
-    background-color: #AC4947;
-    border: none;
+    background-color: #bc3e40;
+    border-color: #bc3e40;
+    font-family: Tahoma, Geneva, sans-serif;
     color: white !important;
-    padding: 10px 25px;
+    padding: 15px 10px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 2px;
     cursor: pointer;
+    box-shadow: 0 16px 18px 0 rgba(0,0,0,0.4);
+}
+
+.button:hover {
+    background-color: #9e2121;
+    color: white;
 }
 
 .pricebox {
@@ -371,10 +380,12 @@ nav ul li:hover, nav ul li.active {
   width: 700px;
   margin-left: inherit;
   margin-right: inherit;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 .pricebox header{
+  font-family: arial, sans-serif;
   position: relative;
+  font-size: 22px;
   padding-left: 8px;
   padding-bottom: 8px;
   padding-top: 8px;
@@ -383,24 +394,26 @@ nav ul li:hover, nav ul li.active {
   margin-left: inherit;
   margin-right: inherit;
   background-color: #AC4947;
+  color: white !important;
 }
 
 .pricebox span{
-  font-style: normal;
+  font-style: arial, sans-serif;
   padding-top:10px;
   padding-bottom: 10px;
-  padding-left: 30px;
+  padding-left: 100px;
   padding-right: 30px;
   display: inline;
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   align: right;
   color: white;
 }
 
 .pricebox h6{
   color: white !important;
-  font-style: normal;
+  font-size: 16px;
+  font-family: Impact, Charcoal, sans-serif;
   vertical-align: middle;
   text-align: left;
   display: inline-block;
@@ -412,13 +425,24 @@ nav ul li:hover, nav ul li.active {
 }
 
 .pricebox p{
+  font-family: arial, sans-serif;
   display: inline-block;
-  font-size: 13px;
+  font-size: 16px;
   position: relative;
   width: 500px;
   padding-left: 100px;
-  padding-top: 10px;
+  padding-top: 0px;
 
+}
+
+.pricebox ul.a{
+  font-family: arial, sans-serif;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+  width: 500px;
+  padding-left: 180px;
+  padding-top: 10px;
 }
 
 .smalltextbox {
@@ -428,6 +452,7 @@ nav ul li:hover, nav ul li.active {
   text-align: center;
 }
 .smalltextbox p{
+  font-family: arial, sans-serif;
   font-size: 12px;
 }
 
