@@ -75,7 +75,7 @@ hr {
 }
 .container p, .container ol, .container ul {
   font-size: 17px;
-  padding: 0 5%;
+  padding: 0 0;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
@@ -176,7 +176,7 @@ nav ul li:hover, nav ul li.active {
 }
 
 .section:first-of-type {
-    padding-top: 140px;
+    padding-top: 50px;
 }
 
 
@@ -184,7 +184,7 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#9fa1a5;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
@@ -195,7 +195,7 @@ nav ul li:hover, nav ul li.active {
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
-  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
+  box-shadow: 0px 1px 15px rgba(0,0,0,0.2);
   background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
 }
 
@@ -302,7 +302,159 @@ nav ul li:hover, nav ul li.active {
     box-sizing: content-box;
   }
 }
+/*-----Stuff Chris Added------*/
+.block-slogan {
+    position: relative;
+    bottom: 15%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
 
+.block-slogan h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 1.0em;
+    width: auto;
+    padding: 0 0.5em;
+    margin: 30px;
+    line-height: 1.4;
+}
+
+.block-slogan span {
+  font-family: arial, sans-serif;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #093099;
+    display: inline;
+    box-shadow: 0 16px 24px 0 rgba(0,0,0,0.4);
+    -webkit-box-decoration-break: clone;
+    -ms-box-decoration-break: clone;
+    -o-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+#img-text {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+}
+.member {
+  position:relative;
+  color: black;
+  float:left;
+  width: 50%;
+  margin: 1% 1% 45px 1%
+}
+
+.member img {
+  display: block;
+  margin: 0 auto;
+}
+
+.button {
+    background-color: #bc3e40;
+    border-color: #bc3e40;
+    font-family: Tahoma, Geneva, sans-serif;
+    color: white !important;
+    padding: 15px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 2px;
+    cursor: pointer;
+    box-shadow: 0 16px 18px 0 rgba(0,0,0,0.4);
+}
+
+.button:hover {
+    background-color: #9e2121;
+    color: white;
+}
+
+.pricebox {
+  position: relative;
+  display: block;
+  width: 700px;
+  margin-left: inherit;
+  margin-right: inherit;
+  margin-top: 25px;
+}
+.pricebox header{
+  font-family: arial, sans-serif;
+  position: relative;
+  font-size: 22px;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  display: block;
+  width: auto;
+  margin-left: inherit;
+  margin-right: inherit;
+  background-color: #AC4947;
+  color: white !important;
+}
+
+.pricebox span{
+  font-style: arial, sans-serif;
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+  padding-right: 30px;
+  display: inline;
+  text-align: center;
+  font-size: 18px;
+  align: right;
+  color: white;
+}
+
+.pricebox h6{
+  color: white !important;
+  font-size: 16px;
+  font-family: Impact, Charcoal, sans-serif;
+  vertical-align: middle;
+  text-align: left;
+  display: inline-block;
+}
+
+.pricebox img {
+  float: left;
+  position: sticky;
+}
+
+.pricebox p{
+  font-family: arial, sans-serif;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+  width: 500px;
+  padding-left: 100px;
+  padding-top: 0px;
+
+}
+
+.pricebox ul.a{
+  font-family: arial, sans-serif;
+  display: inline-block;
+  font-size: 16px;
+  position: relative;
+  width: 500px;
+  padding-left: 180px;
+  padding-top: 10px;
+}
+
+.smalltextbox {
+  align: center
+  width: 200px
+  display: inline-block;
+  text-align: center;
+}
+.smalltextbox p{
+  font-family: arial, sans-serif;
+  font-size: 12px;
+}
 
 
 /* mid size (tablets, landscapes) */
