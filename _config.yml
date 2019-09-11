@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "Petr Havlíček - Školení"
+keywords:    "havlicekpetr.cz coaching"
+description: "Školení, prezentace, management coaching a osobní rozvoj"
+source_link: "https://havlicekpetr.cz/coaching"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-104403181-5 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
@@ -32,6 +32,10 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+
+### social
+  twitter_username: "havlajznik"
+
 
 kramdown:
   auto_ids:  false
