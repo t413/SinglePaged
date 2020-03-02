@@ -81,11 +81,17 @@
 	small { font-size: 80%; }
 
 /*	Blockquotes  */
-	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
-	blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #bbb; font-style: italic; margin-top: 12px !important; margin-bottom: 12px !important;}
+	blockquote { margin: 0 0 20px; padding: 9px 9px 12px 0px; border-left: 1px solid #ddd; }
 	blockquote cite { display: block; font-size: 12px; color: #555; }
 	blockquote cite:before { content: "\2014 \0020"; }
+	blockquote a { color: #f8f8f8 !important;}
 	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
+	blockquote { 
+		background-color: rgb(15, 14, 75);
+		-moz-border-radius: 15px;
+		-webkit-border-radius: 15px;
+	}
 
 	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 10px 0 30px; height: 0; }
 
