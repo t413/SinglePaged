@@ -13,3 +13,4 @@ fa-icon: terminal
 *  {:.btn} [Algo II (Andycitos y Calvitos)](https://www.proyl.com/1CnM3eE8p)
 *  {:.btn} [Algo III](https://www.proyl.com/d1bHhN5I0)
 *  {:.btn} [Análisis Numérico (Tarela)](https://www.proyl.com/lmO5RT22t)
+*  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
