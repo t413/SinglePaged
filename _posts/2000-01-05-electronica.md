@@ -16,3 +16,9 @@ fa-icon: microchip
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](https://www.proyl.com/3Ua8pP7iW)
 *  {:.btn} [Labo de Micros](https://www.proyl.com/a6X0Zb7Ik)
 *  {:.btn} [Señales y Sistemas](https://www.proyl.com/eQ79NA5bd)
+
+<span class="editongithub">
+	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
+		<i class="fas fa-pen"></i> Editar en GitHub
+	</a>
+</span>

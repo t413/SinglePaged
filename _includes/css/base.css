@@ -106,7 +106,7 @@
   list-style-type: none;
 }
 
-.btn > a, btn > a:visited { text-decoration: none; outline: 0; color: white !important; /* White text */}
+.btn > a, .btn > a:visited { text-decoration: none; outline: 0; color: white !important; /* White text */}
 
 /* Darker background on mouse-over */
 .btn:hover {
@@ -115,6 +115,11 @@
   text-decoration: underline;
 }
 
+.editongithub{
+  display:flex;
+  justify-content:flex-end;
+  align-items:center; 
+}
 
 /* #Lists
 ================================================== */
@@ -279,7 +284,6 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
-
 
 
   /* #Syntax highlighting

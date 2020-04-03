@@ -14,3 +14,9 @@ fa-icon: terminal
 *  {:.btn} [Algo III](https://www.proyl.com/d1bHhN5I0)
 *  {:.btn} [Análisis Numérico (Tarela)](https://www.proyl.com/lmO5RT22t)
 *  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
+
+<span class="editongithub">
+	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
+		<i class="fas fa-pen"></i> Editar en GitHub
+	</a>
+</span>
