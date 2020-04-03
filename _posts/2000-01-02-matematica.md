@@ -4,7 +4,7 @@ bg: orange
 color: white
 fa-icon: square-root-alt
 ---
-#### Departameto de
+#### Departamento de
 # Matemática
 
 * {:.btn}  [Álgebra 2](https://www.proyl.com/5xv2CQ8Vh)

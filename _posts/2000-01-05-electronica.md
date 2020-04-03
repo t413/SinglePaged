@@ -4,6 +4,8 @@ bg: '#3f72af'
 color: white
 fa-icon: microchip
 ---
+#### Departamento de
+# Electrónica
 *  {:.btn} [Análisis de Circuitos](https://www.proyl.com/3kCo5Qk9O)
 *  {:.btn} [Circuitos I](https://www.proyl.com/wGa52CvN5)
 *  {:.btn} [Control I](https://www.proyl.com/lSfS0c4I3)
