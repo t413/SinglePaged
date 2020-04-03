@@ -6,6 +6,13 @@ fa-icon: microchip
 ---
 #### Departamento de
 # Electrónica
+
+<!---
+No poner los links de t.joinchat directamente,
+usar https://www.protectyourlinks.com/ para obtener
+un link corto protegido por captcha
+-->
+
 *  {:.btn} [Análisis de Circuitos](https://www.proyl.com/3kCo5Qk9O)
 *  {:.btn} [Circuitos I](https://www.proyl.com/wGa52CvN5)
 *  {:.btn} [Control I](https://www.proyl.com/lSfS0c4I3)

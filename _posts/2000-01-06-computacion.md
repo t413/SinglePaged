@@ -7,6 +7,12 @@ fa-icon: terminal
 #### Departamento de
 # Computación
 
+<!---
+No poner los links de t.joinchat directamente,
+usar https://www.protectyourlinks.com/ para obtener
+un link corto protegido por captcha
+-->
+
 *  {:.btn} [Algo I Informática](https://www.proyl.com/EVt6l86Vx)
 *  {:.btn} [Algo I Electrónica](https://www.proyl.com/xis80SDP2)
 *  {:.btn} [Algo II (Buchwaldcitos y Mendecitos)](https://www.proyl.com/nzR2OC8e5)
