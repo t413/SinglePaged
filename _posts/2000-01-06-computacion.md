@@ -18,6 +18,7 @@ un link corto protegido por captcha
 *  {:.btn} [Algo II (Buchwaldcitos y Mendecitos)](https://www.proyl.com/nzR2OC8e5)
 *  {:.btn} [Algo II (Andycitos y Calvitos)](https://www.proyl.com/1CnM3eE8p)
 *  {:.btn} [Algo III](https://www.proyl.com/d1bHhN5I0)
+*  {:.btn} [Análisis de la información/MeMoI - Villagra](https://www.proyl.com/KzlGC31a5)
 *  {:.btn} [Análisis Numérico (Tarela)](https://www.proyl.com/lmO5RT22t)
 *  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
 *  {:.btn} [Orga del computador (Moreno)](https://www.proyl.com/Bno50oMY1)
