@@ -13,7 +13,7 @@ usar https://www.protectyourlinks.com/ para obtener
 un link corto protegido por captcha
 -->
 
-*  {:.btn} [Análisis de Circuitos](https://www.proyl.com/3kCo5Qk9O)
+*  {:.btn} [Análisis de Circuitos](https://www.proyl.com/7OoNcbA25)
 *  {:.btn} [Circuitos I](https://www.proyl.com/u529HwANo)
 *  {:.btn} [Control I](https://www.proyl.com/lSfS0c4I3)
 *  {:.btn} [Dispositivos Semiconductores](https://www.proyl.com/BB949Pbxx)
