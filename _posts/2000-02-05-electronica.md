@@ -20,6 +20,7 @@ un link corto protegido por captcha
 *  {:.btn} [Electromagnetísmo](https://www.proyl.com/3EPf5wNy4)
 *  {:.btn} [Fisica III](https://www.proyl.com/8YgzHe9F4)
 *  {:.btn} [Introducción a la Ing. Electrónica](https://www.proyl.com/yO01P6Iyy)
+*  {:.btn} [Introducción a la Economía](https://www.proyl.com/un4Z98DjA)
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](https://www.proyl.com/3Ua8pP7iW)
 *  {:.btn} [Labo de Micros](https://www.proyl.com/a6X0Zb7Ik)
 *  {:.btn} [Señales y Sistemas](https://www.proyl.com/eQ79NA5bd)
