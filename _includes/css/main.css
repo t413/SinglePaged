@@ -355,3 +355,7 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+.btn i{
+  width: 2em;
+}
