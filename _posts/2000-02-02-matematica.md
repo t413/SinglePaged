@@ -13,11 +13,11 @@ usar https://www.protectyourlinks.com/ para obtener
 un link corto protegido por captcha
 -->
 
-* {:.btn}  [Álgebra 2](https://www.proyl.com/5xv2CQ8Vh)
-* {:.btn}  [Análisis 2](https://www.proyl.com/5DK6J5lye)
-* {:.btn}  [Análisis 3](https://www.proyl.com/N8SjgS7u2)
-* {:.btn}  [Proba B](https://www.proyl.com/e2D7JWom8)
-* {:.btn}  [Matemática Discreta](https://www.proyl.com/l0II37nIo)
+* {:.btn}  <i class="fas fa-gamepad"></i> [Álgebra 2](https://www.proyl.com/5xv2CQ8Vh)
+* {:.btn}  **∇** [Análisis 2](https://www.proyl.com/5DK6J5lye)
+* {:.btn}  **i** [Análisis 3](https://www.proyl.com/N8SjgS7u2)
+* {:.btn}  <i class="fas fa-random"></i> [Proba B](https://www.proyl.com/e2D7JWom8)
+* {:.btn}  <i class="fas fa-sitemap"></i> [Matemática Discreta](https://www.proyl.com/l0II37nIo)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
