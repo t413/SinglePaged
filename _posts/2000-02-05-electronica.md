@@ -17,7 +17,7 @@ un link corto protegido por captcha
 *  {:.btn} [Circuitos I](https://www.proyl.com/u529HwANo)
 *  {:.btn} [Control I](https://www.proyl.com/lSfS0c4I3)
 *  {:.btn} [Dispositivos Semiconductores](https://www.proyl.com/BB949Pbxx)
-*  {:.btn} [Electromagnetísmo](https://www.proyl.com/3EPf5wNy4)
+*  {:.btn} [Electromagnetismo](https://www.proyl.com/3EPf5wNy4)
 *  {:.btn} [Fisica III](https://www.proyl.com/8YgzHe9F4)
 *  {:.btn} [Introducción a la Ing. Electrónica](https://www.proyl.com/yO01P6Iyy)
 *  {:.btn} [Introducción a la Economía](https://www.proyl.com/un4Z98DjA)

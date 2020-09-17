@@ -21,7 +21,7 @@ un link corto protegido por captcha
 *  {:.btn} [Análisis de la información/MeMoI - Villagra](https://www.proyl.com/KzlGC31a5)
 *  {:.btn} [Análisis Numérico (Tarela)](https://www.proyl.com/lmO5RT22t)
 *  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
-*  {:.btn} [Modelos y Optimización I - sabados](https://www.proyl.com/Yvpj12LU8)
+*  {:.btn} [Modelos y Optimización I - sábados](https://www.proyl.com/Yvpj12LU8)
 *  {:.btn} [Orga del computador (Moreno)](https://www.proyl.com/Bno50oMY1)
 
 <span class="editongithub">
