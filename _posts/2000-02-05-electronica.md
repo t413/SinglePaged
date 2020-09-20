@@ -15,6 +15,7 @@ un link corto protegido por captcha
 *  {:.btn} [Acústica](https://www.proyl.com/PgSHb73h0)
 *  {:.btn} [Análisis de Circuitos](https://www.proyl.com/7OoNcbA25)
 *  {:.btn} [Circuitos I](https://www.proyl.com/u529HwANo)
+*  {:.btn} [Comunicación de Datos](https://www.proyl.com/In05kXc0J)
 *  {:.btn} [Control I](https://www.proyl.com/lSfS0c4I3)
 *  {:.btn} [Dispositivos Semiconductores](https://www.proyl.com/BB949Pbxx)
 *  {:.btn} [Electromagnetismo](https://www.proyl.com/3EPf5wNy4)
