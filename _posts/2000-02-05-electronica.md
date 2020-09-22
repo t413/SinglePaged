@@ -13,6 +13,7 @@ usar https://www.protectyourlinks.com/ para obtener
 un link corto protegido por captcha
 -->
 *  {:.btn} [Acústica](https://www.proyl.com/PgSHb73h0)
+*  {:.btn} [Algoritmos y Programación II (Electrónica)](https://www.proyl.com/37jF4VkyT)
 *  {:.btn} [Análisis de Circuitos](https://www.proyl.com/7OoNcbA25)
 *  {:.btn} [Circuitos I](https://www.proyl.com/u529HwANo)
 *  {:.btn} [Comunicación de Datos](https://www.proyl.com/In05kXc0J)
