@@ -24,6 +24,7 @@ un link corto protegido por captcha
 *  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
 *  {:.btn} [Modelos y Optimización I - sábados](https://www.proyl.com/Yvpj12LU8)
 *  {:.btn} [Orga del computador (Moreno)](https://www.proyl.com/Bno50oMY1)
+*  {:.btn} [Taller de Programación 1](https://www.proyl.com/eKl7M27wB)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
