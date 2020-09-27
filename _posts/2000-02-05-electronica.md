@@ -25,6 +25,7 @@ un link corto protegido por captcha
 *  {:.btn} [Introducción a la Economía](https://www.proyl.com/un4Z98DjA)
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](https://www.proyl.com/3Ua8pP7iW)
 *  {:.btn} [Labo de Micros](https://www.proyl.com/a6X0Zb7Ik)
+*  {:.btn} [Procesos Estocásticos](https://www.proyl.com/Etj13vSO2)
 *  {:.btn} [Señales y Sistemas](https://www.proyl.com/eQ79NA5bd)
 
 <span class="editongithub">
