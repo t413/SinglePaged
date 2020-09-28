@@ -22,6 +22,7 @@ un link corto protegido por captcha
 *  {:.btn} [Análisis Numérico (Sassano)](https://www.proyl.com/G8Xi8r7dJ)
 *  {:.btn} [Análisis Numérico (Tarela)](https://www.proyl.com/lmO5RT22t)
 *  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
+*  {:.btn} [Criptografía y Seguridad Informática](https://www.proyl.com/007HrEDmn)
 *  {:.btn} [Modelos y Optimización I - sábados](https://www.proyl.com/Yvpj12LU8)
 *  {:.btn} [(75.06) Organización de Datos](https://www.proyl.com/LDf7c63Nh)
 *  {:.btn} [Orga del computador (Moreno)](https://www.proyl.com/Bno50oMY1)
