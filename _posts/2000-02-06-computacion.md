@@ -9,24 +9,24 @@ fa-icon: terminal
 
 <!---
 No poner los links de t.joinchat directamente,
-usar https://www.protectyourlinks.com/ para obtener
-un link corto protegido por captcha
+>>>> NO USAR https://www.protectyourlinks.com/ <<<<
+En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 -->
 
-*  {:.btn} [Algo I Informática](https://www.proyl.com/EVt6l86Vx)
-*  {:.btn} [Algo I Electrónica](https://www.proyl.com/xis80SDP2)
-*  {:.btn} [Algo II (Buchwaldcitos y Mendecitos)](https://www.proyl.com/nzR2OC8e5)
-*  {:.btn} [Algo II (Andycitos y Calvitos)](https://www.proyl.com/1CnM3eE8p)
-*  {:.btn} [Algo III](https://www.proyl.com/d1bHhN5I0)
-*  {:.btn} [Análisis de la información/MeMoI - Villagra](https://www.proyl.com/KzlGC31a5)
-*  {:.btn} [Análisis Numérico (Sassano)](https://www.proyl.com/G8Xi8r7dJ)
-*  {:.btn} [Análisis Numérico (Tarela)](https://www.proyl.com/lmO5RT22t)
-*  {:.btn} [Computación](https://www.proyl.com/kh6tZN85C)
-*  {:.btn} [Criptografía y Seguridad Informática](https://www.proyl.com/007HrEDmn)
-*  {:.btn} [Modelos y Optimización I - sábados](https://www.proyl.com/Yvpj12LU8)
-*  {:.btn} [(75.06) Organización de Datos](https://www.proyl.com/LDf7c63Nh)
-*  {:.btn} [Orga del computador (Moreno)](https://www.proyl.com/Bno50oMY1)
-*  {:.btn} [Taller de Programación 1](https://www.proyl.com/eKl7M27wB)
+*  {:.btn} [Algo I Informática](j/A70cpFXTfQPaiUO5vsSJMQ)
+*  {:.btn} [Algo I Electrónica](j/A70cpFfEMyrH_e1VSbbOmw)
+*  {:.btn} [Algo II (Buchwaldcitos y Mendecitos)](j/A70cpEvxdpjEQgXUgTBgiw)
+*  {:.btn} [Algo II (Andycitos y Calvitos)](j/A70cpFZAOK3JO-Wpsge1bg)
+*  {:.btn} [Algo III](j/A70cpEWebHL3AD1l_SuIng)
+*  {:.btn} [Análisis de la información/MeMoI - Villagra](j/FP2kuxhIGun-bf1yE6IZOQ)
+*  {:.btn} [Análisis Numérico (Sassano)](j/NP4F9BwODH46vrDH3gAnwQ)
+*  {:.btn} [Análisis Numérico (Tarela)](j/DMszTlJY8_KFm3NDHSNZWA)
+*  {:.btn} [Computación](j/A70cpBejSAzul8jSGlpoOQ)
+*  {:.btn} [Criptografía y Seguridad Informática](j/RtIFfhut_eS9uSPFcNf1Kw)
+*  {:.btn} [Modelos y Optimización I - sábados](j/FP2kuxwt01EDi0_02TTLtA)
+*  {:.btn} [(75.06) Organización de Datos](j/IQ4_wRvx_n27Wf8KCJOsHQ)
+*  {:.btn} [Orga del computador (Moreno)](j/CiRS_0Vrm9LUJVWBqQCNrw)
+*  {:.btn} [Taller de Programación 1](j/A70cpBnwnhsSBnpw0QU89w)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
