@@ -9,24 +9,25 @@ fa-icon: microchip
 
 <!---
 No poner los links de t.joinchat directamente,
-usar https://www.protectyourlinks.com/ para obtener
-un link corto protegido por captcha
+>>>> NO USAR https://www.protectyourlinks.com/ <<<<
+En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 -->
-*  {:.btn} [Acústica](https://www.proyl.com/PgSHb73h0)
-*  {:.btn} [Algoritmos y Programación II (Electrónica)](https://www.proyl.com/37jF4VkyT)
-*  {:.btn} [Análisis de Circuitos](https://www.proyl.com/7OoNcbA25)
-*  {:.btn} [Circuitos I](https://www.proyl.com/u529HwANo)
-*  {:.btn} [Comunicación de Datos](https://www.proyl.com/In05kXc0J)
-*  {:.btn} [Control I](https://www.proyl.com/lSfS0c4I3)
-*  {:.btn} [Dispositivos Semiconductores](https://www.proyl.com/BB949Pbxx)
-*  {:.btn} [Electromagnetismo](https://www.proyl.com/3EPf5wNy4)
-*  {:.btn} [Fisica III](https://www.proyl.com/8YgzHe9F4)
-*  {:.btn} [Introducción a la Ing. Electrónica](https://www.proyl.com/yO01P6Iyy)
-*  {:.btn} [Introducción a la Economía](https://www.proyl.com/un4Z98DjA)
-*  {:.btn} [Introducción al Diseño Asistido (CAD)](https://www.proyl.com/3Ua8pP7iW)
-*  {:.btn} [Labo de Micros](https://www.proyl.com/a6X0Zb7Ik)
-*  {:.btn} [Procesos Estocásticos](https://www.proyl.com/Etj13vSO2)
-*  {:.btn} [Señales y Sistemas](https://www.proyl.com/eQ79NA5bd)
+
+*  {:.btn} [Acústica](j/DMszThp8zU5X4EPgp4MAQg)
+*  {:.btn} [Algoritmos y Programación II (Electrónica)](j/IQ4_wR0aRJ8jWNMcBsr3Nw)
+*  {:.btn} [Análisis de Circuitos](j/Ogw12k3ExEvv8pONk4bHPQ)
+*  {:.btn} [Circuitos I](j/IQ4_wU67D9F0e3ML6B2G7Q)
+*  {:.btn} [Comunicación de Datos](j/DMszTkN3VbX6jtzAv5QPHw)
+*  {:.btn} [Control I](j/DMszThglDe-jJaG7qGHbVg)
+*  {:.btn} [Dispositivos Semiconductores](j/DMszTlNF4hsAaoRpw3IVkg)
+*  {:.btn} [Electromagnetismo](j/IQ4_wVdAV9QpsqouTBZ9oA)
+*  {:.btn} [Fisica III](j/IQ4_wU46jredv7_63y6KIA)
+*  {:.btn} [Introducción a la Ing. Electrónica](j/NONsfET3Mm5S7HXnPI4K3w)
+*  {:.btn} [Introducción a la Economía](j/DMszThPQoAF1vprvSOeGsA)
+*  {:.btn} [Introducción al Diseño Asistido (CAD)](j/DMszTkkIbptLpjREaAplqQ)
+*  {:.btn} [Labo de Micros](j/DMszThlENqXmSQCkXMy2sA)
+*  {:.btn} [Procesos Estocásticos](j/Kd1alhIXJ1fkJozLiPKDoQ)
+*  {:.btn} [Señales y Sistemas](j/DMszTk0T-76GU5PAZwraJw)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
