@@ -8,4 +8,16 @@ function correctLink(idx, elem){
 }
 
 // TO DO: Falta el captcha
-$(".btn > a").each(correctLink);
+correct = false;
+do{
+	let ans = String(prompt("¿Eres humano? ¿2x3?")).toLowerCase().trim();
+	correct = ['seis', '6', 'llueve', 'lluvia'].includes(ans);
+	
+	if (correct){
+		$(".btn > a").each(correctLink);
+	}else{
+		if(!confirm("No podemos mostrarte los links a menos que seas humano.\n¿Otro intento?")){
+			break;
+		}
+	}
+}while(!correct);
