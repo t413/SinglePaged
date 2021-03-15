@@ -19,5 +19,6 @@ do{
 		if(!confirm("No podemos mostrarte los links a menos que seas humano.\n¿Otro intento?")){
 			break;
 		}
+	window.location.href = "about:blank";
 	}
 }while(!correct);
