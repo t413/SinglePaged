@@ -10,7 +10,7 @@ function correctLink(idx, elem){
 // TO DO: Falta el captcha
 correct = false;
 do{
-	let ans = String(prompt("¿Eres humano? ¿2x3?")).toLowerCase().trim();
+	let ans = String(prompt("Responde esta pregunta para verificar tu humanidad: ¿2x3?")).toLowerCase().trim();
 	correct = ['seis', '6', 'llueve', 'lluvia'].includes(ans);
 	
 	if (correct){
