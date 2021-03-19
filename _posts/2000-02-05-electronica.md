@@ -22,7 +22,6 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Dispositivos Semiconductores](j/DMszTlNF4hsAaoRpw3IVkg)
 *  {:.btn} [Electromagnetismo](j/IQ4_wVdAV9QpsqouTBZ9oA)
 *  {:.btn} [Fisica III](j/IQ4_wU46jredv7_63y6KIA)
-*  {:.btn} [Introducción a la Ing. Electrónica](j/NONsfET3Mm5S7HXnPI4K3w)
 *  {:.btn} [Introducción a la Economía](j/DMszThPQoAF1vprvSOeGsA)
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](j/DMszTkkIbptLpjREaAplqQ)
 *  {:.btn} [Labo de Micros](j/DMszThlENqXmSQCkXMy2sA)
