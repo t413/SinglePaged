@@ -1,9 +1,22 @@
 function clickListener(e){
 	e.preventDefault(); // Cancel the native event
 	
-	alertify.alert("Importante!","<img src='img/rose.jpg'></img>",function(e){e.preventDefault()}).set('closable', false).set('label', '¡Lea!'); ;
-	setTimeout(()=>(window.location.href = e.target.href), 5000);
-	alertify.notify('Procesando...', 'success',10)
+	const timeout = 5000;
+	let time_finished = false;
+	
+	setTimeout(()=>(time_finished = true), timeout)
+	
+	let cbConfirm = function(closeEvent){
+		if (!time_finished){
+			closeEvent.cancel = true ;
+		}else{
+			window.location.href = e.target.href
+		}
+	}
+	
+	const rose = alertify.confirm("Importante!","<img src='img/rose.jpg'></img>", cbConfirm, function(){}).autoOk(timeout/1000).setting({
+		'closable': false
+	});
 }
 
 // Se encarga de completar los links de los botones si se resuelve bien el captcha
@@ -16,18 +29,50 @@ function correctLink(idx, elem){
 	}
 }
 
+function grantAccess(){
+	$(".btn > a").each(correctLink);
+	alertify.notify("Bienvenidu, amigou",'success',3);
+}
+
+function setCookie(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i <ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
 // TO DO: Falta el captcha
-correct = false;
-function testHuman(){
+let correct = false;
+function testHuman(cbTrue, cbFalse){
+	if(getCookie("soyHumano")==="true"){
+		cbTrue();
+		return;
+	}
+	
 	alertify.prompt(
 		"Test de humanidad",
-		"Para saber que no eres un bot, responde: ¿2x3?", "escriba aquí",
+		"Para saber que no eres un bot, responde: ¿2x3?", "",
 		function(evt, value){ //completado
 			let ans = String(value).toLowerCase().trim();
 			correct = ['seis', '6', 'llueve', 'lluvia'].includes(ans);
 			if(correct){
-				$(".btn > a").each(correctLink);
-				alertify.notify("Bienvenidu, amigou",'success',3);
+				setCookie("soyHumano","true",5);
+				cbTrue();
 			}else{
 				alertify.alert(
 					"Respuesta incorrecta",
@@ -39,7 +84,6 @@ function testHuman(){
 		()=>(setTimeout(cancelWarn,500))
 	).set('closable', false);
 }
-
 function cancelWarn(){
 	alertify.confirm(
 		"Mala onda",
@@ -48,9 +92,13 @@ function cancelWarn(){
 			setTimeout(testHuman, 500);
 		},
 		function(){ //tomarse el palo
-			window.location.href = "https://www.youtube.com/watch?v=uwyHOnPUFGI";
+			cbFalse();
 		}
 	).set('closable', false);
 }
 
-testHuman();
+testHuman(function(){ //ok
+	grantAccess();
+}, function(){ //no ok
+	window.location.href = "https://www.youtube.com/watch?v=uwyHOnPUFGI";
+});
