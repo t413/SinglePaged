@@ -2,7 +2,7 @@ function clickListener(e){
 	e.preventDefault(); // Cancel the native event
 	
 	alertify.alert("Importante!","<img src='img/rose.jpg'></img>",function(e){e.preventDefault()}).set('closable', false).set('label', '¡Lea!'); ;
-	setTimeout(()=>(window.location.href = e.target.href), 5000);
+	setTimeout(()=>(alertify.closeAll(); window.location.href = e.target.href), 5000);
 	alertify.notify('Procesando...', 'success',10)
 }
 
