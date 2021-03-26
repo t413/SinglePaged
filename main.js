@@ -64,41 +64,55 @@ function testHuman(cbTrue, cbFalse){
 		return;
 	}
 	
-	alertify.prompt(
-		"Test de humanidad",
-		"Para saber que no eres un bot, responde: ¿2x3?", "",
-		function(evt, value){ //completado
-			let ans = String(value).toLowerCase().trim();
-			correct = ['seis', '6', 'llueve', 'lluvia'].includes(ans);
-			if(correct){
+	RVerify.action(function(res){
+		switch(res){
+			case 2:
+				alertify.confirm(
+					"Test cancelado",
+					"No podré dejarte pasar a menos que completes el test para demostrar tu humanidad. ¿Lo quieres intentar?",
+					init,
+					cbFalse
+				).set('closable', false);
+			break;
+			
+			case 1:
 				setCookie("soyHumano","true",5);
 				cbTrue();
-			}else{
-				alertify.alert(
-					"Respuesta incorrecta",
-					"La respuesta ingresada: '"+value+"' no es válida.",
-					()=>(setTimeout(cancelWarn,500))
+			break;
+			
+			default:
+				alertify.confirm(
+					"Test fallado",
+					"Haz fallado desastrozamente el test, no podré dejarte pasar a menos que lo completes. ¿Intentas otra vez?",
+					function(){},
+					cbFalse
 				).set('closable', false);
-			}
-		},
-		()=>(setTimeout(cancelWarn,500))
-	).set('closable', false);
-}
-function cancelWarn(){
-	alertify.confirm(
-		"Mala onda",
-		"No podemos dejarte ver los links si no eres humano. ¿Quieres intentar otra vez?",
-		function(){ //si
-			setTimeout(testHuman, 500);
-		},
-		function(){ //tomarse el palo
-			cbFalse();
 		}
-	).set('closable', false);
+	});
 }
 
-testHuman(function(){ //ok
-	grantAccess();
-}, function(){ //no ok
-	window.location.href = "https://www.youtube.com/watch?v=uwyHOnPUFGI";
+
+function init(){
+	testHuman(function(){ //ok
+		grantAccess();
+	}, function(){ //no ok
+		window.location.href = "https://www.youtube.com/watch?v=uwyHOnPUFGI";
+	});
+}
+
+//Rverify
+RVerify.configure({
+  title: 'Anti Bots',
+  text: 'Dejá la imagen derechita',
+  tolerance: 10,
+  zIndex: 999999,
+  maskClosable: false,
+  album: [
+	'/img/rverify/1.png',
+	'/img/rverify/2.jpg',
+	'/img/rverify/3.jpg',
+	'/img/rverify/4.gif'
+  ]
 });
+
+init();
