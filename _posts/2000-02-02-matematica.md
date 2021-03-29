@@ -13,7 +13,7 @@ No poner los links de t.joinchat directamente,
 En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 -->
 
-* {:.btn}  <i class="fas fa-gamepad"></i> [Álgebra 2](j/TM8M4-O35OEEysdo)
+* {:.btn}  <i class="fas fa-gamepad"></i> [Álgebra 2](j/TM8M44aS_SrOeqvu)
 * {:.btn}  <i class="fas">∇</i> [Análisis 2](j/A70cpEmL9xHBWg1RHc67HQ)
 * {:.btn}  <i class="fas">i</i> [Análisis 3](j/DMszThduvy0C9R3NRPUnxQ)
 * {:.btn}  <i class="fas fa-random"></i> [Proba A (No industriales)](j/Tf7iBpXYPhEtlifR)
