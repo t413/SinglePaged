@@ -19,14 +19,17 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Circuitos I](j/IQ4_wU67D9F0e3ML6B2G7Q)
 *  {:.btn} [Comunicación de Datos](j/DMszTkN3VbX6jtzAv5QPHw)
 *  {:.btn} [Control I](j/DMszThglDe-jJaG7qGHbVg)
+*  {:.btn} [Control II](j/https://t.me/joinchat/cMoiSo-YqzBjNmIx)
 *  {:.btn} [Dispositivos Semiconductores](j/DMszTlNF4hsAaoRpw3IVkg)
 *  {:.btn} [Electromagnetismo](j/IQ4_wVdAV9QpsqouTBZ9oA)
 *  {:.btn} [Fisica III](j/IQ4_wU46jredv7_63y6KIA)
+*  {:.btn} [Instrumentación y Control de Procesos](j/88sBvCJUOPE1YWIx)
 *  {:.btn} [Introducción a la Ing. Electrónica](j/NONsfET3Mm5S7HXnPI4K3w)
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](j/DMszTkkIbptLpjREaAplqQ)
 *  {:.btn} [Labo de Micros](j/DMszThlENqXmSQCkXMy2sA)
 *  {:.btn} [Procesos Estocásticos](j/Kd1alhIXJ1fkJozLiPKDoQ)
 *  {:.btn} [Señales y Sistemas](j/DMszTk0T-76GU5PAZwraJw)
+*  {:.btn} [Técnica Digital](j/5AHHpHW0vmxkMGMx)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
