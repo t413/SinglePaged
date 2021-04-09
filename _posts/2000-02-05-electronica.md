@@ -17,7 +17,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Algoritmos y Programación II (Electrónica)](j/IQ4_wR0aRJ8jWNMcBsr3Nw)
 *  {:.btn} [Análisis de Circuitos](j/Ogw12k3ExEvv8pONk4bHPQ)
 *  {:.btn} [Circuitos I](j/IQ4_wU67D9F0e3ML6B2G7Q)
-*  {:.btn} [Circuitos II](j/Sl-UXhAIgyvwtrNA)
+*  {:.btn} [Circuitos II](j/HNkuMsdEFXBmZDdh)
 *  {:.btn} [Comunicación de Datos](j/DMszTkN3VbX6jtzAv5QPHw)
 *  {:.btn} [Control I](j/DMszThglDe-jJaG7qGHbVg)
 *  {:.btn} [Control II](j/https://t.me/joinchat/cMoiSo-YqzBjNmIx)
