@@ -17,6 +17,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Algoritmos y Programación II (Electrónica)](j/IQ4_wR0aRJ8jWNMcBsr3Nw)
 *  {:.btn} [Análisis de Circuitos](j/Ogw12k3ExEvv8pONk4bHPQ)
 *  {:.btn} [Circuitos I](j/IQ4_wU67D9F0e3ML6B2G7Q)
+*  {:.btn} [Circuitos II](j/HNkuMsdEFXBmZDdh)
 *  {:.btn} [Comunicación de Datos](j/DMszTkN3VbX6jtzAv5QPHw)
 *  {:.btn} [Control I](j/DMszThglDe-jJaG7qGHbVg)
 *  {:.btn} [Control II](j/https://t.me/joinchat/cMoiSo-YqzBjNmIx)
@@ -28,6 +29,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](j/DMszTkkIbptLpjREaAplqQ)
 *  {:.btn} [Labo de Micros](j/DMszThlENqXmSQCkXMy2sA)
 *  {:.btn} [Procesos Estocásticos](j/Kd1alhIXJ1fkJozLiPKDoQ)
+*  {:.btn} [Procesamiento de Senales 1](j/BGf_lAGuveoxMDlh)
 *  {:.btn} [Señales y Sistemas](j/DMszTk0T-76GU5PAZwraJw)
 *  {:.btn} [Técnica Digital](j/5AHHpHW0vmxkMGMx)
 
