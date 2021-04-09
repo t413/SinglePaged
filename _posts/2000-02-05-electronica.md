@@ -26,7 +26,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Fisica III](j/IQ4_wU46jredv7_63y6KIA)
 *  {:.btn} [Instrumentación y Control de Procesos](j/88sBvCJUOPE1YWIx)
 *  {:.btn} [Introducción a la Ing. Electrónica](j/NONsfET3Mm5S7HXnPI4K3w)
-*  {:.btn} [Introducción al Diseño Asistido (CAD)](j/DMszTkkIbptLpjREaAplqQ)
+*  {:.btn} [Introducción al Diseño Asistido (CAD)](j/2x2kmVAzLjkxMGVh)
 *  {:.btn} [Labo de Micros](j/DMszThlENqXmSQCkXMy2sA)
 *  {:.btn} [Procesos Estocásticos](j/Kd1alhIXJ1fkJozLiPKDoQ)
 *  {:.btn} [Procesamiento de Senales 1](j/BGf_lAGuveoxMDlh)
