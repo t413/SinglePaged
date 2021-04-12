@@ -32,6 +32,8 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Procesamiento de Senales 1](j/BGf_lAGuveoxMDlh)
 *  {:.btn} [Señales y Sistemas](j/DMszTk0T-76GU5PAZwraJw)
 *  {:.btn} [Técnica Digital](j/5AHHpHW0vmxkMGMx)
+*  {:.btn} [Optoelectrónica](j/XoeO_asHYVdmNzIx)
+*  {:.btn} [Microelectrónica](j/CkvBmqUZlCs0MTNh)
 
 <span class="editongithub">
 	<a href="{{site.github.repository_url}}/blob/master/{{page.path}}">
