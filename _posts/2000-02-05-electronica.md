@@ -19,6 +19,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Circuitos I](j/IQ4_wU67D9F0e3ML6B2G7Q)
 *  {:.btn} [Circuitos II](j/HNkuMsdEFXBmZDdh)
 *  {:.btn} [Comunicación de Datos](j/DMszTkN3VbX6jtzAv5QPHw)
+*  {:.btn} [Comunicaciones Digitales I](j/nzdJAi1lg1U1NDE5)
 *  {:.btn} [Control I](j/DMszThglDe-jJaG7qGHbVg)
 *  {:.btn} [Control II](j/https://t.me/joinchat/cMoiSo-YqzBjNmIx)
 *  {:.btn} [Dispositivos Semiconductores](j/DMszTlNF4hsAaoRpw3IVkg)
