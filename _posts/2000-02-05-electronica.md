@@ -34,6 +34,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Procesamiento de Senales 1](j/BGf_lAGuveoxMDlh)
 *  {:.btn} [Redes Neuronales](j/BxPhQ8thIIA2MjVh)
 *  {:.btn} [Señales y Sistemas](j/DMszTk0T-76GU5PAZwraJw)
+*  {:.btn} [Sistemas Biológicos](j/mcQXlmp2mbJiY2Ix)
 *  {:.btn} [Sistemas Embebidos](j/1D6R2peJrpozNzVh)
 *  {:.btn} [Servicios y Redes de Comunicaciones](j/Bje_FbBY2JJmYjcx)
 *  {:.btn} [Técnica Digital](j/5AHHpHW0vmxkMGMx)
