@@ -22,7 +22,6 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Análisis Numérico (Sassano)](j/NP4F9BwODH46vrDH3gAnwQ)
 *  {:.btn} [Análisis Numérico (Tarela)](j/DMszTlJY8_KFm3NDHSNZWA)
 *  {:.btn} [Computación](j/A70cpBejSAzul8jSGlpoOQ)
-*  {:.btn} [Criptografía y Seguridad Informática](j/RtIFfhut_eS9uSPFcNf1Kw)
 *  {:.btn} [Inteligencia Artificial](j/nGTXAdJC09hlZTgx)
 *  {:.btn} [(75.06) Organización de Datos](j/IQ4_wRvx_n27Wf8KCJOsHQ)
 *  {:.btn} [Orga del computador (Moreno)](j/CiRS_0Vrm9LUJVWBqQCNrw)
