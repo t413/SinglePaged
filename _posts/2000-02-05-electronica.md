@@ -25,7 +25,6 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Criptografía y Seguridad Informática](j/RtIFfhut_eS9uSPFcNf1Kw)
 *  {:.btn} [Dispositivos Semiconductores](j/DMszTlNF4hsAaoRpw3IVkg)
 *  {:.btn} [Electromagnetismo](j/IQ4_wVdAV9QpsqouTBZ9oA)
-*  {:.btn} [Fisica III](j/IQ4_wU46jredv7_63y6KIA)
 *  {:.btn} [Instrumentación y Control de Procesos](j/88sBvCJUOPE1YWIx)
 *  {:.btn} [Introducción a la Ing. Electrónica](j/NONsfET3Mm5S7HXnPI4K3w)
 *  {:.btn} [Introducción al Diseño Asistido (CAD)](j/_mJONSwsZtw2MDYx)
