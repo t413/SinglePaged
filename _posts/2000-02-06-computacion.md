@@ -17,6 +17,7 @@ En lugar de https://t.me/joinchat/SaraSasasa-sa poner j/SaraSasasa-sa
 *  {:.btn} [Algo I Electrónica](j/A70cpFfEMyrH_e1VSbbOmw)
 *  {:.btn} [Algo II (Buchwaldcitos y Mendecitos)](j/A70cpEvxdpjEQgXUgTBgiw)
 *  {:.btn} [Algo II (Andycitos y Calvitos)](j/A70cpFZAOK3JO-Wpsge1bg)
+*  {:.btn} [(95.12) Algoritmos y Programación II (Electrónica)](j/IQ4_wR0aRJ8jWNMcBsr3Nw)
 *  {:.btn} [Algo III](j/A70cpEWebHL3AD1l_SuIng)
 *  {:.btn} [Análisis de la información/MeMoI - Villagra](j/FP2kuxhIGun-bf1yE6IZOQ)
 *  {:.btn} [Análisis Numérico (Sassano)](j/NP4F9BwODH46vrDH3gAnwQ)
