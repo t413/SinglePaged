@@ -96,6 +96,30 @@
 	a:hover, a:focus { }
 	p a, p a:visited { line-height: inherit; }
 
+.btn {
+  background-color: #323232; /* Blue background */
+  border: none; /* Remove borders */
+  color: white !important; /* White text */
+  padding: 12px 16px; /* Some padding */
+  font-size: 16px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+  list-style-type: none;
+}
+
+.btn > a, .btn > a:visited { text-decoration: none; outline: 0; color: white !important; /* White text */}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+  list-style-type: none;
+  text-decoration: underline;
+}
+
+.editongithub{
+  display:flex;
+  justify-content:flex-end;
+  align-items:center; 
+}
 
 /* #Lists
 ================================================== */
@@ -260,7 +284,6 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
-
 
 
   /* #Syntax highlighting

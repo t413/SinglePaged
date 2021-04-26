@@ -355,3 +355,15 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
+.btn i{
+  width: 2em;
+  padding: 12px 8px;
+  background: gray;
+  text-align: center;
+}
+
+.btn > a{
+  padding: 12px 8px;
+  display: inline-block;
+}

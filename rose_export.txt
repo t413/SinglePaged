@@ -1,0 +1,186 @@
+{
+  "bot_id": 609517172,
+  "data": {
+    "admin": {
+      "legacy_admin": false
+    },
+    "antiflood": {
+      "action": "ban",
+      "action_duration": 0,
+      "flood_limit": 0
+    },
+    "blocklists": {
+      "action": "nothing",
+      "action_duration": 0,
+      "default_reason": "",
+      "filters": [
+        {
+          "name": "*facebook-web-clients.appspot.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*proyectoingenieria.com.ar/*",
+          "reason": "No se permite por las reglas del grupo (hacen spam solamente)"
+        },
+        {
+          "name": "*instagram.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*facebook.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*faceboom.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*whatsapp.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*whatsapp.net*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*facebook.de*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*facebook.fr*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*fbsbx.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*tfbnw.net*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*fb.com*",
+          "reason": "No se permite por las reglas del grupo"
+        },
+        {
+          "name": "*fb.me*",
+          "reason": "No se permite por las reglas del grupo"
+        }
+      ],
+      "should_delete": true
+    },
+    "disabled": {
+      "disabled": null,
+      "should_delete": false
+    },
+    "filters": {
+      "filters": [
+        {
+          "data_id": "",
+          "name": "organizador de materias",
+          "text": "Podes ver horarios aca [Pagina FIUBA Plan](buttonurl://fdelmazo.github.io/FIUBA-Plan/)",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "opiniones de cursos",
+          "text": "Consultalas aca [Pagina de Dolly](buttonurl://dollyfiuba.com)",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "mapa de carreras",
+          "text": "Podes ver materias de carreras aca [Pagina FIUBA Map](buttonurl://fdelmazo.github.io/FIUBA-Map/)",
+          "type": 0
+        },
+        {
+          "data_id": "",
+          "name": "fiubaverse",
+          "text": "fiubaverse\n[Enlace](buttonurl://fiubaverse.github.io)",
+          "type": 0
+        }
+      ]
+    },
+    "greetings": {
+      "goodbye": {
+        "data_id": "",
+        "text": "",
+        "type": 0
+      },
+      "kick_after": 3600,
+      "mute_for": 3600,
+      "mute_mode": "button",
+      "mute_text": "\"Soy Estudiante\"",
+      "should_clean": true,
+      "should_delete_service": false,
+      "should_goodbye": false,
+      "should_kick": true,
+      "should_mute": true,
+      "should_welcome": true,
+      "welcome": {
+        "data_id": "",
+        "text": "¡Hola {fullname} bienvenido/a a {chatname}! ♡\n\nNo te olvides de revisar nuestras normas y los demás grupos del FIUBA-Verse, podés revisar todo en la descripción del grupo :)\n\n_Tip:_ para cualquier pregunta que quieras hacer, revisá que no se haya hecho antes con la herramienta \"buscar\".\n\n\n\n*¡Clickeá en el botón de \"Soy Estudiante\" para empezar a charlar!*\n                ⬇️*(ACÁ ABAJO)*⬇️\n⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️",
+        "type": 0
+      }
+    },
+    "locks": {
+      "allowlisted_url": null,
+      "lock_warns": false,
+      "locks": {
+        "all": false,
+        "audio": false,
+        "bot": false,
+        "button": false,
+        "command": false,
+        "contact": false,
+        "document": false,
+        "email": false,
+        "emojigame": false,
+        "forward": false,
+        "forwardbot": false,
+        "forwardchannel": false,
+        "forwarduser": false,
+        "game": false,
+        "gif": false,
+        "inline": false,
+        "invitelink": false,
+        "location": false,
+        "phone": false,
+        "photo": false,
+        "poll": false,
+        "rtl": false,
+        "sticker": false,
+        "text": false,
+        "url": false,
+        "video": false,
+        "videonote": false,
+        "voice": false
+      }
+    },
+    "notes": {
+      "notes": null,
+      "private_notes": false
+    },
+    "pins": {
+      "antichannelpin": false,
+      "cleanlinked": false
+    },
+    "reports": {
+      "disable_reports": false
+    },
+    "rules": {
+      "content": "",
+      "send_to_chat": false
+    },
+    "translations": {
+      "lang": "es"
+    },
+    "warns": {
+      "action": "ban",
+      "action_duration": 0,
+      "warn_for": 0,
+      "warn_limit": 3
+    }
+  },
+  "version": 1
+}
