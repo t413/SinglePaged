@@ -33,6 +33,7 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
+remote_theme: bartvvstroe/bartvvstroe.github.io
 kramdown:
   auto_ids:  false
 
