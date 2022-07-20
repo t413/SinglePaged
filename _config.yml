@@ -36,3 +36,5 @@ colors:
 kramdown:
   auto_ids:  false
 
+
+theme: jekyll-theme-midnight
