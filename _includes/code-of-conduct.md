@@ -78,7 +78,7 @@ This Slack has a pretty strong cultural norm against people dropping in just to 
 
 ### Unwelcome Direct Messages (DMs) 
 
-Direct messages sent to another user 
+Direct messages sent to another user that are unsolicited, or unwelcome _at the discretion of the recipient_ are prohibited. 
 
 ### Reporting
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can. 
