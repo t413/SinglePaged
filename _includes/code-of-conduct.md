@@ -87,16 +87,6 @@ Our current admins are @knach and @paulsbruce
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
 
-### Admin stuff
-
-#### Logs and Records:
-
-Please be mindful that things you say here may at some point become public. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
-
-
-#### Message Retention:
-Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of Boston Devops Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
-
 
 
 #### Supporting Definitions
