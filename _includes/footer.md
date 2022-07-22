@@ -1,8 +1,7 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
+Jekyll template :: [SinglePaged theme](https://github.com/t413/SinglePaged)
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+bostondevops.github.io is governed by the [The MIT License](https://github.com/BostonDevOps/bostondevops.github.io/blob/gh-pages/LICENSE.txt)
 &mdash;
-this site is [open source]({{ site.source_link }})
-
+[Report an issue with the site](https://github.com/BostonDevOps/bostondevops.github.io/issues/new)
