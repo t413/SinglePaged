@@ -17,12 +17,6 @@ Harassment, bullying and discrimination take many forms, including (See _Support
 * Offensive or derogatory jokes or comments (explicit or by innuendo)
 * Verbal or physical abuse and threats
 
-### Open Citizenship Policy
-
-A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
-
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know. The same holds for those seen violating the norms of our group.
-
 ### Expected Behavior
 
 The following behaviors are expected and requested of all community members:
