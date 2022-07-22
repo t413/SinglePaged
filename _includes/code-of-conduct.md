@@ -83,7 +83,7 @@ This Slack has a pretty strong cultural norm against people dropping in just to 
 
 
 
-**Supporting Definitions**
+####Supporting Definitions
 
 **Discrimination** means to treat an individual less favorably because of his/her particular attributes, background, identify or heritage. It includes imposing unreasonable terms or conditions for which individuals with a particular attribute are unable to engage in Boston DevOps community. Attributes include:
 
