@@ -2,7 +2,7 @@
 
 ### Purpose
 
-Boston DevOps values the input, knowledge, experiences, and involvement of individuals and organizations that comprise Boston’s DevOps community. A primary goal of Boston DevOps (also known as BDO) is to be inclusive to the largest number of devops and related practitioners, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+Boston DevOps values the input, knowledge, experiences, and involvement of individuals and organizations that comprise Boston’s DevOps community. A primary goal of Boston DevOps (also known as BDO) community, meetups, and slack is to be inclusive to the largest number of devops and related practitioners, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior. Misconduct and unacceptable behavior or conduct not in keeping with the spirit and intent of the Boston DevOps Citizens Code of Conduct will be subject to sanctions by the community leaders as appropriate. All sanctions will be governed through principles and procedures characteristic of Natural Justice.
 
@@ -62,7 +62,9 @@ The following behaviors are considered harassment and are unacceptable within ou
 * If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 * In the event that a disruption persists, community leaders have the right to contact the police to assure the safety of all participants.
 
-### Spam
+### Spam and Pitches
+
+If you’re coming here _only_ to make a sales pitch, please don’t.
 
 **What should I do if I see spam, conduct violation, or otherwise not welcome in this slack? **
 
@@ -72,8 +74,28 @@ Users should flag inappropriate behavior to admins rather than addressing it the
 
 This Slack has a pretty strong cultural norm against people dropping in just to advertise their companies or otherwise promote something that benefits only the original poster. We encourage users to meaningfully engage - this is a great community! Ask questions, introduce yourself in #introductions , join in our meetups, and most of all have fun - but leave the pitches at the door.
 
-**Spam** is a post or a series of posts where the content is primarily solicitation (a call to action), nonsense, overly short/long, repetitive, or off-topic. This includes but is not limited to product advertisements, surveys, resumes (aside from in #jobs). Posts where the content is not hand-crafted or is too generic/useless may also be considered spam. It is unacceptable to simply copy/paste your message across multiple channels for added visibility. It is also unacceptable to post the same message or similar message frequently within the same channel and/or directly spam users. If a moderator notices multiple spam posts in succession, the account may be terminated
+**Spam** is a post or a series of posts where the content is primarily solicitation (a call to action), nonsense, overly short/long, repetitive, or off-topic. This includes but is not limited to product advertisements, surveys, resumes (aside from in #jobs). Posts where the content is not hand-crafted or is too generic/useless may also be considered spam. It is unacceptable to simply copy/paste your message across multiple channels for added visibility. It is also unacceptable to post the same message or similar message frequently within the same channel and/or directly spam users. If a moderator notices multiple spam posts in succession, the account may be terminated.
 
+### Unwelcome Direct Messages (DMs) 
+
+Direct messages sent to another user 
+
+### Reporting
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can. 
+
+Our current admins are @knach and @paulsbruce
+
+We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
+
+### Admin stuff
+
+#### Logs and Records:
+
+Please be mindful that things you say here may at some point become public. We cannot prevent people from screencapping or otherwise logging this slack. We also can't guarantee that every member's login credentials and logged-in devices are secure. Files uploaded here can be downloaded by anyone with a login. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
+
+
+#### Message Retention:
+Because this is a free slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of Boston Devops Slack. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
 
 
@@ -135,3 +157,6 @@ This is not an exhaustive list – however, it does outline some of the more com
 **Victimization** means treating someone unfairly because they have made, or intend to make, a discrimination or harassment complaint. This also includes those who have supported another person in making a complaint.
 
 **Natural Justice** provides that all parties must be given the opportunity to present their case, be fully informed about allegations and decisions made, and have the right of representation by another person. A decision-maker in relation to the matter should have no personal interest in the matter and should be unbiased in their decisions.
+
+Sources 
+https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17
