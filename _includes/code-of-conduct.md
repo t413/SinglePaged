@@ -1,6 +1,6 @@
-##Boston Devops Slack Community Code of Conduct
+## Boston Devops Slack Community Code of Conduct
 
-###Purpose
+### Purpose
 
 Boston DevOps values the input, knowledge, experiences, and involvement of individuals and organizations that comprise Boston’s DevOps community. A primary goal of Boston DevOps (also known as BDO) is to be inclusive to the largest number of devops and related practitioners, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
@@ -17,7 +17,7 @@ Harassment, bullying and discrimination take many forms, including (See _Support
 * Offensive or derogatory jokes or comments (explicit or by innuendo)
 * Verbal or physical abuse and threats
 
-###Open Citizenship Policy
+### Open Citizenship Policy
 
 A supplemental goal of this Code of Conduct is to increase open citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
@@ -59,7 +59,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Spam (see #6)
 * Monopolizing discussions and conversations at the expense of others’ participation.
 
-###Consequences of Unacceptable Behavior
+### Consequences of Unacceptable Behavior
 
 
 
@@ -68,7 +68,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 * In the event that a disruption persists, community leaders have the right to contact the police to assure the safety of all participants.
 
-###Spam
+### Spam
 
 **What should I do if I see spam, conduct violation, or otherwise not welcome in this slack? **
 
