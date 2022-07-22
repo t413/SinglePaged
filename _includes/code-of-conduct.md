@@ -148,5 +148,3 @@ This is not an exhaustive list – however, it does outline some of the more com
 
 **Natural Justice** provides that all parties must be given the opportunity to present their case, be fully informed about allegations and decisions made, and have the right of representation by another person. A decision-maker in relation to the matter should have no personal interest in the matter and should be unbiased in their decisions.
 
-Sources 
-https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17
