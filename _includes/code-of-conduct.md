@@ -66,11 +66,11 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 If you’re coming here _only_ to make a sales pitch, please don’t.
 
-**What should I do if I see spam, conduct violation, or otherwise not welcome in this slack? **
+**What should I do if I see spam, conduct violation, or otherwise not welcome in this slack?**
 
 Users should flag inappropriate behavior to admins rather than addressing it themselves, using @mods to page the admins. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category. Obvious spam posts should be promptly deleted; non-obvious spam may be flagged for review.
 
-**What is spam? Why did someone call my post spam?  **
+**What is spam? Why did someone call my post spam?**
 
 This Slack has a pretty strong cultural norm against people dropping in just to advertise their companies or otherwise promote something that benefits only the original poster. We encourage users to meaningfully engage - this is a great community! Ask questions, introduce yourself in #introductions , join in our meetups, and most of all have fun - but leave the pitches at the door.
 
@@ -83,7 +83,7 @@ Direct messages sent to another user that are unsolicited, or unwelcome _at the 
 ### Reporting
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can. 
 
-Our current admins are @knach and @paulsbruce
+Our current admins are **@knach** and **@paulsbruce**
 
 We will respect confidentiality requests for the purpose of protecting victims of abuse. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them. We will not name harassment victims without their affirmative consent.
 
@@ -148,5 +148,3 @@ This is not an exhaustive list – however, it does outline some of the more com
 
 **Natural Justice** provides that all parties must be given the opportunity to present their case, be fully informed about allegations and decisions made, and have the right of representation by another person. A decision-maker in relation to the matter should have no personal interest in the matter and should be unbiased in their decisions.
 
-Sources 
-https://gist.github.com/annalee/2cddeff11357c3a8a613583ebca4dc17
