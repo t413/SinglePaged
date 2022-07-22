@@ -1,8 +1,3 @@
-<!---
-Sync with Google Doc: https://docs.google.com/document/d/1Y1hsaBLU24EfmqiLGQ9Ls3xrBEEEoqy6oOyQfVKHi8Q/edit
-using 'Docs to Markdown' extension
---->
-
 **<span style="text-decoration:underline;">1. Purpose</span>**
 
 Boston DevOps values the input, knowledge, experiences, and involvement of individuals and organizations that comprise Boston’s DevOps community. A primary goal of Boston DevOps (also known as BDO) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
