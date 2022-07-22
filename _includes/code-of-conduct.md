@@ -23,7 +23,7 @@ A supplemental goal of this Code of Conduct is to increase open citizenship by e
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know. The same holds for those seen violating the norms of our group.
 
-###Expected Behavior
+### Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -40,7 +40,7 @@ The following behaviors are expected and requested of all community members:
 * Do not demean, discriminate, bully, or harass others.
 
 
-###Unacceptable Behavior
+### Unacceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
