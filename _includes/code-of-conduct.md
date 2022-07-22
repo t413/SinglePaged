@@ -66,11 +66,11 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 If you’re coming here _only_ to make a sales pitch, please don’t.
 
-**What should I do if I see spam, conduct violation, or otherwise not welcome in this slack? **
+**What should I do if I see spam, conduct violation, or otherwise not welcome in this slack?**
 
 Users should flag inappropriate behavior to admins rather than addressing it themselves, using @mods to page the admins. This includes but is not limited to reporting: violations of this code of conduct, spam messages, messages posted in the wrong channel or category. Obvious spam posts should be promptly deleted; non-obvious spam may be flagged for review.
 
-**What is spam? Why did someone call my post spam?  **
+**What is spam? Why did someone call my post spam?**
 
 This Slack has a pretty strong cultural norm against people dropping in just to advertise their companies or otherwise promote something that benefits only the original poster. We encourage users to meaningfully engage - this is a great community! Ask questions, introduce yourself in #introductions , join in our meetups, and most of all have fun - but leave the pitches at the door.
 
