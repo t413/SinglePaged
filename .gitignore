@@ -1,2 +1,4 @@
 _site/
 .DS_Store
+.jekyll-cache
+img/favicon_io
