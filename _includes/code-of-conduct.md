@@ -50,7 +50,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 * Deliberately intimidating, stalking or following someone (online or in person).
 * Advocating for, or encouraging, any of the above behaviors.
 * Disrupting community events, talks, and presentations.
-* Spam (see #6)
+* Spam (see section on Spam)
 * Monopolizing discussions and conversations at the expense of others’ participation.
 
 ### Consequences of Unacceptable Behavior
@@ -72,7 +72,7 @@ Users should flag inappropriate behavior to admins rather than addressing it the
 
 This Slack has a pretty strong cultural norm against people dropping in just to advertise their companies or otherwise promote something that benefits only the original poster. We encourage users to meaningfully engage - this is a great community! Ask questions, introduce yourself in #introductions , join in our meetups, and most of all have fun - but leave the pitches at the door.
 
-**Spam ** is a post or a series of posts where the content is primarily solicitation (a call to action), nonsense, overly short/long, repetitive, or off-topic. This includes but is not limited to product advertisements, surveys, resumes (aside from in #jobs). Posts where the content is not hand-crafted or is too generic/useless may also be considered spam. It is unacceptable to simply copy/paste your message across multiple channels for added visibility. It is also unacceptable to post the same message or similar message frequently within the same channel and/or directly spam users. If a moderator notices multiple spam posts in succession, the account may be terminated
+**Spam** is a post or a series of posts where the content is primarily solicitation (a call to action), nonsense, overly short/long, repetitive, or off-topic. This includes but is not limited to product advertisements, surveys, resumes (aside from in #jobs). Posts where the content is not hand-crafted or is too generic/useless may also be considered spam. It is unacceptable to simply copy/paste your message across multiple channels for added visibility. It is also unacceptable to post the same message or similar message frequently within the same channel and/or directly spam users. If a moderator notices multiple spam posts in succession, the account may be terminated
 
 
 
