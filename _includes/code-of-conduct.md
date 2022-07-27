@@ -76,12 +76,12 @@ This Slack has a pretty strong cultural norm against people dropping in just to 
 
 **Spam** is a post or a series of posts where the content is primarily solicitation (a call to action), nonsense, overly short/long, repetitive, or off-topic. This includes but is not limited to product advertisements, surveys, resumes (aside from in #jobs). Posts where the content is not hand-crafted or is too generic/useless may also be considered spam. It is unacceptable to simply copy/paste your message across multiple channels for added visibility. It is also unacceptable to post the same message or similar message frequently within the same channel and/or directly spam users. If a moderator notices multiple spam posts in succession, the account may be terminated.
 
-### Unwelcome Direct Messages (DMs) 
+### Unwelcome Direct Messages (DMs)
 
-Direct messages sent to another user that are unsolicited, or unwelcome _at the discretion of the recipient_ are prohibited. 
+Direct messages sent to another user that are unsolicited, or unwelcome _at the discretion of the recipient_ are prohibited.
 
 ### Reporting
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can. 
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.
 
 Our current admins are **@knach** and **@paulsbruce**
 
@@ -91,11 +91,11 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 #### Supporting Definitions
 
-**Discrimination** means to treat an individual less favorably because of his/her particular attributes, background, identify or heritage. It includes imposing unreasonable terms or conditions for which individuals with a particular attribute are unable to engage in Boston DevOps community. Attributes include:
+**Discrimination** means to treat an individual less favorably because of their particular attributes, background, identify or heritage. It includes imposing unreasonable terms or conditions for which individuals with a particular attribute are unable to engage in Boston DevOps community. Attributes include:
 
 
 
-* Gender and gender identify
+* Gender and gender identity
 * relationship status
 * parental status – including pregnancy, child rearing, family responsibilities including and breastfeeding
 * religious belief or activity
@@ -147,4 +147,3 @@ This is not an exhaustive list – however, it does outline some of the more com
 **Victimization** means treating someone unfairly because they have made, or intend to make, a discrimination or harassment complaint. This also includes those who have supported another person in making a complaint.
 
 **Natural Justice** provides that all parties must be given the opportunity to present their case, be fully informed about allegations and decisions made, and have the right of representation by another person. A decision-maker in relation to the matter should have no personal interest in the matter and should be unbiased in their decisions.
-
